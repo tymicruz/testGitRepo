@@ -1,0 +1,951 @@
+File,Progress,Responsible,Notes,Feature Owner,Moderator,Code Collaborator ID,Test Type,Current,Reviewed By,Reviewed,Tested By,Tested,Approved By,Approved,Last Approved
+ApprovalFilter.txt,150,,,erichewi,rilehudd,,No UT Paperwork,'25193e,,,willmorr,'25193e,rilehudd,'25193e,'25193e
+BuildScripts\BuildDebug.bat,150,,Automatically Moved/Added 1/7/2013,erichewi,stango,,None.,'ab5108,,,erichewi,'e2d8e2,erichewi,'e2d8e2,
+dummyKickBuild.txt,150,,,erichewi,rilehudd,,No UT Paperwork,'af063a,,,willmorr,'af063a,rilehudd,'af063a,'af063a
+Modules\Alarms\Alarms.SL\AlarmBaseViewModel.cs,175,,"Reverted to approved c5a970, 3c7c50==c5a970",rilehudd,erichewi,,No UT Paperwork,'3c7c50,,'e0bcba,rilehudd,'3c7c50,erichewi,'3c7c50,
+Modules\Alarms\Alarms.SL\AlarmButtonControl.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'5f5868,,,erichewi,'5f5868,erichewi,'3c7c50,
+Modules\Alarms\Alarms.SL\AlarmButtonControl.xaml,150,,,rilehudd,willmorr,,No UT Paperwork,'f3fa8c,,,rilehudd,'f3fa8c,willmorr,'f3fa8c,'f3fa8c
+Modules\Alarms\Alarms.SL\AlarmButtonControl.xaml.cs,150,,,rilehudd,willmorr,,No UT Paperwork,'83a748,,,rilehudd,'83a748,willmorr,'83a748,'83a748
+Modules\Alarms\Alarms.SL\AlarmButtonView.xaml,150,,,rilehudd,willmorr,,No UT Paperwork,'f3fa8c,,,rilehudd,'f3fa8c,willmorr,'f3fa8c,'f3fa8c
+Modules\Alarms\Alarms.SL\AlarmButtonView.xaml.cs,150,,,rilehudd,willmorr,,No UT Paperwork,'f3fa8c,,,rilehudd,'f3fa8c,willmorr,'f3fa8c,'f3fa8c
+Modules\Alarms\Alarms.SL\AlarmButtonViewModel.cs,150,,,rilehudd,willmorr,,No UT Paperwork,'ec70b4,,,rilehudd,'ec70b4,willmorr,'ec70b4,'ec70b4
+Modules\Alarms\Alarms.SL\AlarmPanelView.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'5f5868,,,erichewi,'5f5868,erichewi,'5f5868,
+Modules\Alarms\Alarms.SL\AlarmPanelView.xaml.cs,150,,,rilehudd,willmorr,,No UT Paperwork,'252224,,,rilehudd,'252224,willmorr,'252224,'252224
+Modules\Alarms\Alarms.SL\AlarmPopupControl.xaml,150,,,rilehudd,willmorr,,No UT Paperwork,'968881,,,rilehudd,'968881,willmorr,'968881,'968881
+Modules\Alarms\Alarms.SL\AlarmPopupControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'5f5868,,,erichewi,'5f5868,erichewi,'5f5868,
+Modules\Alarms\Alarms.SL\DiagnosticAlarmViewModel.cs,175,,,rilehudd,willmorr,,No UT Paperwork,'c49e53,,'d5abb8,rilehudd,'c49e53,willmorr,'c49e53,'c49e53
+Modules\Alarms\Alarms.SL\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'5f5868,,,erichewi,'5f5868,erichewi,'5f5868,
+Modules\Alarms\Alarms.SL\Themes\Generic.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'5f5868,,,erichewi,'5f5868,erichewi,'5f5868,
+Modules\Alarms\AlarmsProcessor\AlarmsProcessorMain.cs,175,,,rilehudd,erichewi,,No UT Paperwork,'3c7c50,,'309dc2,rilehudd,'3c7c50,erichewi,'3c7c50,
+Modules\Alarms\AlarmsProcessor\app.config,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'5f5868,,,erichewi,'5f5868,erichewi,'5f5868,
+Modules\Alarms\AlarmsProcessor\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'5f5868,,,erichewi,'5f5868,erichewi,'5f5868,
+Modules\Alarms\Alarms\AlarmDetail.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'5f5868,,,erichewi,'5f5868,erichewi,'5f5868,
+Modules\Alarms\Alarms\AlarmsDatabase.cs,175,,,rilehudd,erichewi,,No UT Paperwork,'c7b594,,'163d42,willmorr,'c7b594,erichewi,'c7b594,'c7b594
+Modules\Alarms\Alarms\AlarmStatus.cs,175,,,rilehudd,willmorr,,No UT Paperwork,'252224,,'352740,rilehudd,'252224,willmorr,'252224,'252224
+Modules\Alarms\Alarms\AlarmStatusWrapper.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'3c7c50,,,rilehudd,'3c7c50,erichewi,'3c7c50,
+Modules\Alarms\Alarms\AlarmsWebService.cs,175,,,rilehudd,erichewi,,No UT Paperwork,'c7b594,,'bfc43c,willmorr,'c7b594,erichewi,'c7b594,'c7b594
+Modules\Alarms\Alarms\Config.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'3c7c50,,,rilehudd,'3c7c50,erichewi,'3c7c50,
+Modules\Alarms\Alarms\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'5f5868,,,erichewi,'5f5868,erichewi,'5f5868,
+Modules\Alarms\Alarms\StationStatus.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'5f5868,,,erichewi,'5f5868,erichewi,'5f5868,
+Modules\Alarms\Alarms\WebService.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'5f5868,,,erichewi,'5f5868,erichewi,'5f5868,
+Modules\Alarms\Alarms\WebService.tt,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'5f5868,,,erichewi,'5f5868,erichewi,'5f5868,
+Modules\AssetStatus\Silverlight\AssetStatus\MainView.xaml,150,,"Approved on previous release, converting to new RecSharp format.",rilehudd,erichewi,,None.,'75dc6b,,,erichewi,'75dc6b,erichewi,'75dc6b,
+Modules\AssetStatus\Silverlight\AssetStatus\MainView.xaml.cs,150,,"Approved on previous release, converting to new RecSharp format.",rilehudd,erichewi,,None.,'b90c83,,,erichewi,'b90c83,erichewi,'b90c83,
+Modules\AssetStatus\Silverlight\AssetStatus\MainViewModel.cs,150,,,rilehudd,stango,,No UT Paperwork,'c5dda2,,,erichewi,'c5dda2,stango,'c5dda2,'c5dda2
+Modules\AssetStatus\Silverlight\AssetStatus\Properties\AppManifest.xml,150,,"Approved on previous release, converting to new RecSharp format.",rilehudd,erichewi,,None.,'ee2e68,,,erichewi,'ee2e68,erichewi,'ee2e68,
+Modules\AssetStatus\Silverlight\AssetStatus\Properties\AssemblyInfo.cs,150,,"Approved on previous release, converting to new RecSharp format.",rilehudd,erichewi,,None.,'5b1dad,,,erichewi,'5b1dad,erichewi,'5b1dad,
+Modules\AssetStatus\Silverlight\AssetStatus\RegionContentInfo.cs,150,,"Approved on previous release, converting to new RecSharp format.",rilehudd,erichewi,,None.,'05c403,,,erichewi,'05c403,erichewi,'05c403,
+Modules\AssetStatus\Silverlight\AssetStatus\StatusConverter.cs,150,,"Approved on previous release, converting to new RecSharp format.",rilehudd,erichewi,,None.,'2ce623,,,erichewi,'2ce623,erichewi,'2ce623,
+Modules\AssetStatus\Silverlight\AssetStatus\Styles\Theme.xaml,150,,"Approved on previous release, converting to new RecSharp format.",rilehudd,erichewi,,None.,'ee2e68,,,erichewi,'ee2e68,erichewi,'ee2e68,
+Modules\Events\Event.cs,150,,Automatically Moved/Added 1/7/2013,erichewi,stango,,None.,'e2d8e2,,,erichewi,'e2d8e2,erichewi,'e2d8e2,
+Modules\Events\EventPanelView.xaml,175,,,erichewi,stango,,No UT Paperwork,'acc88c,rilehudd,'acc88c,rilehudd,'acc88c,stango,'acc88c,
+Modules\Events\EventPanelView.xaml.cs,175,,,erichewi,stango,,No UT Paperwork,'acc88c,rilehudd,'acc88c,rilehudd,'acc88c,stango,'acc88c,
+Modules\Events\EventPanelViewModel.cs,150,,Automatically Moved/Added 1/7/2013,erichewi,stango,,None.,'e2d8e2,,,erichewi,'e2d8e2,erichewi,'e2d8e2,
+Modules\Events\PowerSystemEvent.cs,150,,,erichewi,stango,,Printed Changes Only,'12de6a,rilehudd,,rilehudd,'12de6a,stango,'12de6a,
+Modules\Events\Properties\AssemblyInfo.cs,150,,"Approved on previous release, converting to new RecSharp format.",erichewi,stango,,None.,'f53756,,,erichewi,'f53756,erichewi,'f53756,
+Modules\Events\Snapshot.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'107dfb,,'09f442,willmorr,'107dfb,rilehudd,'107dfb,'107dfb
+Modules\Events\SnapshotPanelView.xaml,175,,,erichewi,stango,,No UT Paperwork,'b137a4,,'09f442,rilehudd,'b137a4,stango,'b137a4,'b137a4
+Modules\Events\SnapshotPanelView.xaml.cs,150,,,erichewi,stango,,No UT Paperwork,'5d61fd,,,rilehudd,'5d61fd,stango,'5d61fd,
+Modules\Events\SnapshotPanelViewModel.cs,150,,,erichewi,stango,,New File Full Test,'7201e6,,,rilehudd,'7201e6,erichewi,'7201e6,'7201e6
+Modules\EventTimeline\EventTimeline.SL\EventMarker.cs,150,,,erichewi,stango,,No UT Paperwork,'1bc7fe,,,rilehudd,'1bc7fe,stango,'1bc7fe,
+Modules\EventTimeline\EventTimeline.SL\EventTimelineControl.cs,175,,,erichewi,willmorr,,No UT Paperwork,'0a9055,,'1a5a2e,rilehudd,'0a9055,willmorr,'0a9055,'0a9055
+Modules\EventTimeline\EventTimeline.SL\EventTimeLineConverters.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'3e460b,,'e6c766,willmorr,'3e460b,rilehudd,'3e460b,'3e460b
+Modules\EventTimeline\EventTimeline.SL\EventTimelineView.xaml,150,,,erichewi,erichewi,,No UT Paperwork,'133ccc,,,rilehudd,'133ccc,erichewi,'133ccc,'133ccc
+Modules\EventTimeline\EventTimeline.SL\EventTimelineView.xaml.cs,150,,,erichewi,erichewi,,No UT Paperwork,'7ec787,,,rilehudd,'7ec787,erichewi,'7ec787,'7ec787
+Modules\EventTimeline\EventTimeline.SL\EventTimelineVM.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'b5a06a,,'8be06c,stango,'b5a06a,erichewi,'b5a06a,'b5a06a
+Modules\EventTimeline\EventTimeline.SL\Properties\AppManifest.xml,150,,,erichewi,stango,,No UT Paperwork,'848a3b,,,rilehudd,'848a3b,erichewi,'848a3b,'848a3b
+Modules\EventTimeline\EventTimeline.SL\Properties\AssemblyInfo.cs,150,,,erichewi,stango,,No UT Paperwork,'35bce8,,,rilehudd,'35bce8,erichewi,'35bce8,'35bce8
+Modules\EventTimeline\EventTimeline.SL\RegionContentInfo.cs,150,,,erichewi,stango,,No UT Paperwork,'1f4fb7,,,rilehudd,'1f4fb7,stango,'1f4fb7,
+Modules\EventTimeline\EventTimeline.SL\Themes\Generic.xaml,150,,,erichewi,erichewi,,No UT Paperwork,'a80715,,,willmorr,'a80715,erichewi,'a80715,'a80715
+Modules\EventTimeline\EventTimeline.SL\TooltipControl.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'3ae84e,,,rilehudd,'3ae84e,willmorr,'3ae84e,'3ae84e
+Modules\EventTimeline\EventTimeline.SL\TooltipControl.xaml.cs,150,,,erichewi,stango,,No UT Paperwork,'475cc0,,,rilehudd,'475cc0,stango,'475cc0,
+Modules\EventTimeline\EventTimeline\AnalyticWebService.cs,150,,,erichewi,stango,,No UT Paperwork,'b5a06a,,,stango,'b5a06a,erichewi,'b5a06a,'b5a06a
+Modules\EventTimeline\EventTimeline\AnalyticWebServiceUtil.cs,150,,,erichewi,erichewi,,No UT Paperwork,'cec793,,,stango,'cec793,erichewi,'cec793,'cec793
+Modules\EventTimeline\EventTimeline\CalculationEngineStandalone\app.config,150,,,erichewi,stango,,,'b78d47,,,stango,'b78d47,erichewi,'b78d47,'b78d47
+Modules\EventTimeline\EventTimeline\CalculationEngineStandalone\CalculationEngine\CalculationEngine.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'ddbead,,,willmorr,'ddbead,rilehudd,'ddbead,'ddbead
+Modules\EventTimeline\EventTimeline\CalculationEngineStandalone\CalculationEngine\CalculationEngine.g,150,,,erichewi,stango,,No UT Paperwork,'843b35,,,stango,'843b35,erichewi,'843b35,'843b35
+Modules\EventTimeline\EventTimeline\CalculationEngineStandalone\ParseNode.cs,150,,,erichewi,erichewi,,,'0b3bba,,,stango,'0b3bba,erichewi,'0b3bba,'0b3bba
+Modules\EventTimeline\EventTimeline\CalculationEngineStandalone\Program.cs,150,,,erichewi,erichewi,,New File Full Test,'0b3bba,,,willmorr,'0b3bba,erichewi,'0b3bba,'0b3bba
+Modules\EventTimeline\EventTimeline\CalculationEngineStandalone\Properties\AssemblyInfo.cs,100,,,erichewi,stango,,,'218606,,,stango,'218606,erichewi,'218606,'218606
+Modules\EventTimeline\EventTimeline\CalculationEngine\CalculationEngine.g,175,,,erichewi,stango,,,'815fd8,,'617213,stango,'815fd8,erichewi,'815fd8,'815fd8
+Modules\EventTimeline\EventTimeline\EventData.cs,150,,,erichewi,stango,,No UT Paperwork,'e43429,,,rilehudd,'e43429,stango,'e43429,'e43429
+Modules\EventTimeline\EventTimeline\IAnalyticWebService.cs,150,,,erichewi,stango,,No UT Paperwork,'d16faf,,,erichewi,'d16faf,stango,'d16faf,'d16faf
+Modules\EventTimeline\EventTimeline\Properties\AssemblyInfo.cs,150,,,erichewi,stango,,,'e17813,,,stango,'e17813,erichewi,'e17813,'e17813
+Modules\EventTimeline\EventTimeline\TeamDatabaseUtil.cs,175,,,erichewi,willmorr,,No UT Paperwork,'b9f833,,5945b3,rilehudd,'b9f833,willmorr,'b9f833,'b9f833
+Modules\Logs\Logs.SL\App.xaml,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs.SL\App.xaml.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs.SL\DateTimeFormatConverter.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs.SL\LogsView.xaml,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs.SL\LogsView.xaml.cs,150,,"Fixed warnings only, no functional change.",stango,erichewi,,None.,'96bd4a,,,rilehudd,'96bd4a,erichewi,'96bd4a,
+Modules\Logs\Logs.SL\LogsViewModel.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs.SL\MainPage.xaml,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs.SL\MainPage.xaml.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs.SL\Properties\AppManifest.xml,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs.SL\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs.SL\Styles\ControlProperties.xaml,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs.SL\Styles\ControlStyles.xaml,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs.SL\Styles\Themes.xaml,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs\LogEntry.cs,175,,,stango,erichewi,,,'0e7fc7,,'352740,stango,'0e7fc7,erichewi,'0e7fc7,'0e7fc7
+Modules\Logs\Logs\LoggingWebService.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs\LogsModel.cs,150,,"Fixed warnings only, no functional change.",stango,erichewi,,None.,'96bd4a,,,rilehudd,'96bd4a,erichewi,'96bd4a,
+Modules\Logs\Logs\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs\WebService.cs,150,,"Fixed warnings only, no functional change.",stango,erichewi,,None.,'96bd4a,,,rilehudd,'96bd4a,erichewi,'96bd4a,
+Modules\Logs\Logs\WebService.tt,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Logs\Logs\WebServiceDefinition.tt,150,,"Move only, no file content change.",stango,erichewi,,None.,'a5ac0a,,,erichewi,'a5ac0a,erichewi,'a5ac0a,
+Modules\Map\Map.SL\controls\ColorScale.xaml,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Map\Map.SL\controls\ColorScale.xaml.cs,150,,"Fixed warnings only, no functional change.",willmorr,erichewi,,None.,'96bd4a,,,rilehudd,'96bd4a,erichewi,'96bd4a,
+Modules\Map\Map.SL\Helper.cs,150,,,willmorr,erichewi,,,'3543f5,,,erichewi,'3543f5,stango,'3543f5,
+Modules\Map\Map.SL\Models\AssetSymbolPair.cs,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Map\Map.SL\Models\ColorOptions.cs,150,,"Fixed warnings only, no functional change.",willmorr,erichewi,,None.,'96bd4a,,,rilehudd,'96bd4a,erichewi,'96bd4a,
+Modules\Map\Map.SL\Models\ContourCalculationInfo.cs,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Map\Map.SL\Models\ListenerWrapper.cs,150,,,willmorr,willmorr,,No UT Paperwork,'8d76b8,,,erichewi,'8d76b8,willmorr,'8d76b8,'8d76b8
+Modules\Map\Map.SL\Models\Locations.cs,150,,,willmorr,willmorr,,No UT Paperwork,'8d76b8,,,erichewi,'8d76b8,willmorr,'8d76b8,'8d76b8
+Modules\Map\Map.SL\Models\Region.cs,150,,,willmorr,erichewi,,No UT Paperwork,'098704,,,willmorr,'098704,erichewi,'098704,'098704
+Modules\Map\Map.SL\Models\Settings.cs,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'1de2a3,
+Modules\Map\Map.SL\Models\TransmissionLine.cs,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Map\Map.SL\Models\ValueScale.cs,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Map\Map.SL\Properties\AppManifest.xml,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Map\Map.SL\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Map\Map.SL\RegionContentInfo.cs,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Map\Map.SL\themes\MapStyle.xaml,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Map\Map.SL\ViewModels\ColorSchemes.cs,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Map\Map.SL\ViewModels\MapViewModel.cs,175,,,willmorr,rilehudd,,,'4cde0a,,'93d9ea,willmorr,'4cde0a,erichewi,'4cde0a,'4cde0a
+Modules\Map\Map.SL\Views\LeftPanelView.xaml,150,,,willmorr,erichewi,,No UT Paperwork,'28bc19,,,dylapowe,'28bc19,erichewi,'28bc19,'28bc19
+Modules\Map\Map.SL\Views\LeftPanelView.xaml.cs,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Map\Map.SL\Views\MapView.xaml,150,,,willmorr,erichewi,,No UT Paperwork,'78e33c,,,stango,'78e33c,erichewi,'78e33c,'78e33c
+Modules\Map\Map.SL\Views\MapView.xaml.cs,150,,,willmorr,erichewi,,No UT Paperwork,'78e33c,,,stango,'78e33c,erichewi,'78e33c,'78e33c
+Modules\Map\Map.SL\Views\MessageBoxError.cs,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Map\Map\MapConfig.cs,150,,,willmorr,erichewi,,No UT Paperwork,'a8993b,,,willmorr,'a8993b,erichewi,'a8993b,'a8993b
+Modules\Map\Map\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",willmorr,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\ModalAnalysis\ModalAnalysis.SL\Converters\MAResultToColor.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\ModalAnalysis\ModalAnalysis.SL\ModalAnalysisResult.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\ModalAnalysis\ModalAnalysis.SL\Properties\AppManifest.xml,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\ModalAnalysis\ModalAnalysis.SL\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\ModalAnalysis\ModalAnalysis.SL\RegionContentInfo.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\ModalAnalysis\ModalAnalysis.SL\Styles\Theme.xaml,150,,Path change only due to files moving.,stango,erichewi,,None.,'cb89d7,,,erichewi,'cb89d7,erichewi,'cb89d7,
+Modules\ModalAnalysis\ModalAnalysis.SL\ViewModels\MaChartVM.cs,150,,,erichewi,stango,,No UT Paperwork,'d7ffc5,,,willmorr,'d7ffc5,stango,'d7ffc5,'d7ffc5
+Modules\ModalAnalysis\ModalAnalysis.SL\Views\ChartView.xaml,150,,,stango,erichewi,,No UT Paperwork,'a252b1,,,rilehudd,'a252b1,erichewi,'a252b1,'a252b1
+Modules\ModalAnalysis\ModalAnalysis.SL\Views\ChartView.xaml.cs,150,,,stango,stango,,No UT Paperwork,'85db8f,,,rilehudd,'85db8f,stango,'85db8f,'85db8f
+Modules\ModalAnalysis\ModalAnalysis\Config.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\ModalAnalysis\ModalAnalysis\MADataWriter.cs,150,,Move and using statements only.,stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\ModalAnalysis\ModalAnalysis\Processor.cs,150,,,stango,erichewi,,,'9b401e,,,erichewi,'9b401e,stango,'30c734,
+Modules\ModalAnalysis\ModalAnalysis\ProcessorFactory.cs,150,,,stango,erichewi,,,'9b401e,,,erichewi,'9b401e,stango,'30c734,
+Modules\ModalAnalysis\ModalAnalysis\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\PhasorScope\PhasorScope.SL\Controls\Indicator.cs,175,,,rilehudd,erichewi,,No UT Paperwork,'b3c65d,,'b99513,erichewi,'b3c65d,willmorr,'b3c65d,'b3c65d
+Modules\PhasorScope\PhasorScope.SL\Controls\PhasorScope.cs,175,,,rilehudd,erichewi,,No UT Paperwork,'a0e28d,,'8350b5,rilehudd,'a0e28d,erichewi,'a0e28d,'e2d8e2
+Modules\PhasorScope\PhasorScope.SL\Controls\PhasorScopeScaleDialog.xaml,150,,Move and using statements only.,rilehudd,erichewi,,None.,'10c627,,,erichewi,'10c627,erichewi,'10c627,
+Modules\PhasorScope\PhasorScope.SL\Controls\PhasorScopeScaleDialog.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\PhasorScope\PhasorScope.SL\Properties\AppManifest.xml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\PhasorScope\PhasorScope.SL\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\PhasorScope\PhasorScope.SL\RegionContentInfo.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\PhasorScope\PhasorScope.SL\Themes\Generic.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\PhasorScope\PhasorScope.SL\ViewModels\PhasorScopeAssetQuantitySelectionViewModel.cs,150,,,rilehudd,willmorr,,No UT Paperwork,'d3fe16,,,erichewi,'d3fe16,willmorr,'d3fe16,'d3fe16
+Modules\PhasorScope\PhasorScope.SL\ViewModels\PhasorScopeViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\PhasorScope\PhasorScope.SL\ViewModels\SelectedIndicatorAssetViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\PhasorScope\PhasorScope.SL\Views\PhasorScopeView.xaml,150,,,rilehudd,willmorr,,No UT Paperwork,'8278fd,,,rilehudd,'8278fd,willmorr,'8278fd,'8278fd
+Modules\PhasorScope\PhasorScope.SL\Views\PhasorScopeView.xaml.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'6eb717,,,rilehudd,'6eb717,erichewi,'6eb717,'6eb717
+Modules\Search\Search.SL\CompactSearchModule\CompactModule.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\CompactSearchModule\TransitionContentControl.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\Converters\Converters.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\ParametersMessages.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\SearchProfile.cs,175,,,stango,erichewi,,No UT Paperwork,'231f48,rilehudd,'231f48,rilehudd,'231f48,erichewi,'231f48,
+Modules\Search\Search.SL\SearchViews\AssetView.xaml,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\SearchViews\AssetView.xaml.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\SearchViews\ParametersView.xaml,150,,Move and using statements only.,stango,erichewi,,None.,'10c627,,,erichewi,'10c627,erichewi,'10c627,
+Modules\Search\Search.SL\SearchViews\ParametersView.xaml.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\SearchViews\QuantityView.xaml,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\SearchViews\QuantityView.xaml.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\SearchViews\ReferenceView.xaml,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\SearchViews\ReferenceView.xaml.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\ViewModels\PagedResultsViewModel.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\ViewModels\SavedSearchesViewModel.cs,100,,,stango,erichewi,,,'0f13bd,,,rilehudd,'0f13bd,stango,'0f13bd,
+Modules\Search\Search.SL\ViewModels\SearchParamsViewModel.cs,150,,,stango,erichewi,,No UT Paperwork,'00277e,,,erichewi,'00277e,stango,'00277e,'00277e
+Modules\Search\Search.SL\ViewModels\SearchResultsViewModel.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\ViewModels\SearchViewModel.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\Views\ResultsView.xaml,150,,,stango,erichewi,,No UT Paperwork,'968881,,,rilehudd,'968881,erichewi,'968881,'968881
+Modules\Search\Search.SL\Views\ResultsView.xaml.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\Views\SavedSearchesView.xaml,175,,,stango,erichewi,,No UT Paperwork,'6b24fb,,'231f48,erichewi,'6b24fb,stango,'6b24fb,
+Modules\Search\Search.SL\Views\SavedSearchesView.xaml.cs,150,,,stango,erichewi,,No UT Paperwork,'6b24fb,,,erichewi,'6b24fb,stango,'6b24fb,
+Modules\Search\Search.SL\Views\SearchParamsView.xaml,150,,Move and using statements only.,stango,erichewi,,None.,'10c627,,,erichewi,'10c627,erichewi,'10c627,
+Modules\Search\Search.SL\Views\SearchParamsView.xaml.cs,150,,,stango,erichewi,,No UT Paperwork,'00277e,,,erichewi,'00277e,stango,'00277e,'00277e
+Modules\Search\Search.SL\Views\SearchView.xaml,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search.SL\Views\SearchView.xaml.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search\AbstractSearchCondition.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search\QuantitySearchCondition.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search\RelativeQuantitySearchCondition.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search\Search.cs,150,,,stango,erichewi,,,'9b401e,,,erichewi,'9b401e,stango,'ac404f,
+Modules\Search\Search\SearchConstants.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search\SearchResult.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search\SearchWebService.cs,150,,,stango,erichewi,,,'9b401e,,,erichewi,'9b401e,stango,'9b401e,
+Modules\Search\Search\TriggerSearchCondition.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search\WebService.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search\WebService.tt,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\Search\Search\WebServiceDefinition.tt,150,,"Move only, no file content change.",stango,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\StandardChart\StandardChart.SL\Properties\AppManifest.xml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\StandardChart\StandardChart.SL\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\StandardChart\StandardChart.SL\RegionContentInfo.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\StandardChart\StandardChart.SL\Styles\Theme.xaml,150,,Path change only due to files moving.,rilehudd,erichewi,,None.,'cb89d7,,,erichewi,'cb89d7,erichewi,'cb89d7,
+Modules\StandardChart\StandardChart.SL\ViewModels\ChartViewModel.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'87dcc0,,,rilehudd,'87dcc0,erichewi,'87dcc0,'87dcc0
+Modules\StandardChart\StandardChart.SL\Views\AssetSelectorView.xaml,150,,,rilehudd,willmorr,,No UT Paperwork,'d3ced2,,,rilehudd,'d3ced2,willmorr,'d3ced2,'d3ced2
+Modules\StandardChart\StandardChart.SL\Views\AssetSelectorView.xaml.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'ecdd07,,,rilehudd,'ecdd07,erichewi,'ecdd07,
+Modules\StandardChart\StandardChart.SL\Views\AssetTabView.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\StandardChart\StandardChart.SL\Views\AssetTabView.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\StandardChart\StandardChart.SL\Views\ChartAssetQuantitySelectionView.xaml,150,,,rilehudd,erichewi,,No UT Paperwork,'eec969,,,willmorr,'eec969,erichewi,'eec969,'eec969
+Modules\StandardChart\StandardChart.SL\Views\ChartAssetQuantitySelectionView.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'30c734,,,erichewi,'30c734,erichewi,'30c734,
+Modules\StandardChart\StandardChart.SL\Views\ChartView.xaml,175,,,rilehudd,rilehudd,,,'a252b1,,'3410ba,erichewi,'a252b1,rilehudd,'a252b1,'a252b1
+Modules\StandardChart\StandardChart.SL\Views\ChartView.xaml.cs,175,,,rilehudd,erichewi,,No UT Paperwork,'a252b1,,'d21b5e,willmorr,'a252b1,erichewi,'a252b1,'a252b1
+ObfuscationRules.xml,150,,,erichewi,erichewi,,No UT Paperwork,'0b3bba,,,willmorr,'0b3bba,erichewi,'0b3bba,'0b3bba
+SEL SynchroWAVe Config.xsd,150,,"Approved on previous release, converting to new RecSharp format.",erichewi,stango,,None.,'47008b,,,erichewi,'47008b,erichewi,'47008b,
+SEL\Common.SL\CatalogService.cs,150,,,erichewi,stango,,No UT Paperwork,'7eee5e,,,stango,'7eee5e,erichewi,'7eee5e,'7eee5e
+SEL\Common.SL\Collections.Generic\ObservableSortedSet.cs,150,,,erichewi,stango,,Automated,'a046ab,,,erichewi,'a046ab,stango,'a046ab,'a046ab
+SEL\Common.SL\Collections.Generic\ObservedLinqSilverlight.cs,150,,,erichewi,willmorr,,New File Full Test,'ca2471,,,erichewi,'ca2471,willmorr,'ca2471,'ca2471
+SEL\Common.SL\Collections.Generic\SortedSet.cs,150,,Moved file only.,erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\ConstructorlessTuple.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Help\HelpFiles.cs,175,,,erichewi,erichewi,,No UT Paperwork,'53b8aa,,'e44632,rilehudd,'53b8aa,erichewi,'53b8aa,'53b8aa
+SEL\Common.SL\IPersistable.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Properties\AssemblyInfo.cs,150,,,erichewi,stango,,None,'fe81ee,,,erichewi,'fe81ee,stango,'fe81ee,
+SEL\Common.SL\Silverlight\ArithmeticConverters.cs,175,,,erichewi,stango,9335,,'0d1275,,'d97a0d,rilehudd,'0d1275,stango,'0d1275,'e2d8e2
+SEL\Common.SL\Silverlight\Behaviors.cs,175,,,erichewi,stango,,No UT Paperwork,'231f48,rilehudd,'231f48,rilehudd,'231f48,stango,'231f48,
+SEL\Common.SL\Silverlight\Clip.cs,150,,,erichewi,stango,,New File Full Test,'7afce6,,,erichewi,'7afce6,willmorr,'7afce6,
+SEL\Common.SL\Silverlight\CollapsingGridSplitter.cs,150,,,erichewi,erichewi,,No UT Paperwork,'493c2e,,,dylapowe,'493c2e,erichewi,'493c2e,'493c2e
+SEL\Common.SL\Silverlight\Controls\AlwaysSelectedListBox.cs,150,,,erichewi,stango,,,'7fdfd6,,,rilehudd,'7fdfd6,stango,'7fdfd6,
+SEL\Common.SL\Silverlight\Controls\KeyBlockingComboBox.cs,150,,,erichewi,willmorr,,No UT Paperwork,'85db8f,,,rilehudd,'85db8f,willmorr,'85db8f,'85db8f
+SEL\Common.SL\Silverlight\Controls\SELDataGrid.cs,150,,,erichewi,erichewi,,No UT Paperwork,'29114a,,,rilehudd,'29114a,erichewi,'29114a,'29114a
+SEL\Common.SL\Silverlight\Controls\SplashPage.cs,150,,,erichewi,willmorr,,No UT Paperwork,'e48c5a,,,stango,'e48c5a,willmorr,'e48c5a,'e48c5a
+SEL\Common.SL\Silverlight\Controls\WrappingPanel.cs,175,,,erichewi,willmorr,,No UT Paperwork,'216348,,'2c5659,rilehudd,'216348,willmorr,'216348,'216348
+SEL\Common.SL\Silverlight\CountedCallback.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Silverlight\DialogBox.cs,175,,,erichewi,willmorr,,No UT Paperwork,'ac44c3,,'55b78b,rilehudd,'ac44c3,willmorr,'ac44c3,'ac44c3
+SEL\Common.SL\Silverlight\Dispatching.cs,150,,,erichewi,stango,,Automated,'9a219a,,,rilehudd,'9a219a,stango,'9a219a,'9a219a
+SEL\Common.SL\Silverlight\MiscConverters.cs,175,,,erichewi,willmorr,9335,No UT Paperwork,'89b156,,'8adb16,rilehudd,'89b156,willmorr,'89b156,'89b156
+SEL\Common.SL\Silverlight\MultiBinding\IMultiValueConverter.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Silverlight\MultiBinding\MultiBinding.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Silverlight\MultiBinding\MultiBindingExpression.cs,175,,,erichewi,stango,,No UT Paperwork,'352740,rilehudd,'352740,rilehudd,'352740,stango,'352740,
+SEL\Common.SL\Silverlight\MultiBinding\MultiBindingValidationError.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Silverlight\MultiClickTrigger.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Silverlight\NanConverter.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Silverlight\ObservableObject.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Silverlight\RegionPartitioner\PersistableRegionGrid.cs,175,,,erichewi,stango,,Printed Changes Only,'15c33d,rilehudd,'15c33d,rilehudd,'15c33d,stango,'15c33d,
+SEL\Common.SL\Silverlight\RegionPartitioner\Region.xaml,150,,,erichewi,stango,,No UT Paperwork,'eec969,,,willmorr,'eec969,stango,'eec969,'eec969
+SEL\Common.SL\Silverlight\RegionPartitioner\Region.xaml.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Silverlight\RegionPartitioner\RegionContent.cs,150,,,erichewi,stango,,No UT Paperwork,'a0a125,,,rilehudd,'a0a125,stango,'a0a125,
+SEL\Common.SL\Silverlight\RegionPartitioner\RegionGrid.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Silverlight\SilverlightUiTest\App.xaml,150,,,erichewi,stango,,No UT Paperwork,'d98321,,,rilehudd,'d98321,stango,'d98321,'d98321
+SEL\Common.SL\Silverlight\SilverlightUiTest\App.xaml.cs,150,,,erichewi,stango,,No UT Paperwork,'d98321,,,rilehudd,'d98321,stango,'d98321,'d98321
+SEL\Common.SL\Silverlight\SilverlightUiTest\DispatchingTest.cs,50,,This is a test and will at a later time be moved into test folder (though not UT land).,erichewi,stango,,No UT Paperwork,'d98321,,,rilehudd,'d98321,test,'d98321,
+SEL\Common.SL\Silverlight\SilverlightUiTest\Properties\AppManifest.xml,150,,,erichewi,stango,,No UT Paperwork,'d98321,,,rilehudd,'d98321,test,'d98321,'d98321
+SEL\Common.SL\Silverlight\SilverlightUiTest\Properties\AssemblyInfo.cs,50,,Fixed the spelling of Laboratories.,erichewi,stango,,No UT Paperwork,'35bce8,,,rilehudd,'35bce8,test,'35bce8,'9c4e50
+SEL\Common.SL\Silverlight\Themes\generic.xaml,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Silverlight\UIUtilities.cs,150,,,erichewi,erichewi,,No UT Paperwork,'5e21ae,,,rilehudd,'5e21ae,erichewi,'5e21ae,'5e21ae
+SEL\Common.SL\Silverlight\UniformGrid.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Silverlight\ViewModelBase.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\Silverlight\VisibilityConverters.cs,175,,,erichewi,rilehudd,9335,Printed Changes Only,'d04772,,'98d1fd,willmorr,'d04772,rilehudd,'d04772,'d04772
+SEL\Common.SL\Silverlight\WebClient.cs,150,,,erichewi,stango,,No UT Paperwork,'8e6043,,,stango,'8e6043,willmorr,'8e6043,'8e6043
+SEL\Common.SL\Silverlight\Xap.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\StringExtensions.cs,150,,,erichewi,erichewi,,No UT Paperwork,'38596d,,,willmorr,'38596d,erichewi,'38596d,'38596d
+SEL\Common.SL\Themes\generic.xaml,150,,,erichewi,stango,,No UT Paperwork,'6c2d77,,,rilehudd,'6c2d77,stango,'6c2d77,
+SEL\Common.SL\UserStoreSerialization.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common.SL\WebServiceExtensions.cs,150,,,erichewi,stango,,No UT Paperwork,'dc9f36,,,rilehudd,'dc9f36,stango,'dc9f36,
+SEL\Common\BinaryFormatter.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Collections.Generic\ArrayExtensions.cs,150,,,erichewi,rilehudd,,Automated,'9907b1,,,erichewi,'9907b1,rilehudd,'9907b1,'9907b1
+SEL\Common\Collections.Generic\CollectionAggregation.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Collections.Generic\CollectionAggregation.tt,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Collections.Generic\DictionaryOfLists.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Collections.Generic\ForEach.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Collections.Generic\ICollectionExtensions.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Collections.Generic\IDictionaryExtensions.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Collections.Generic\IEnumerableExtensions.cs,150,,,erichewi,rilehudd,,Automated,'c17f26,,,erichewi,'c17f26,rilehudd,'c17f26,'e2d8e2
+SEL\Common\Collections.Generic\IListExtensions.cs,175,,,erichewi,erichewi,9335,No UT Paperwork,'9e56f6,,'4e24f7,rilehudd,'9e56f6,erichewi,'9e56f6,'9e56f6
+SEL\Common\Collections.Generic\IObservableCollection.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Collections.Generic\ISortedList.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Collections.Generic\Misc.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Collections.Generic\MultiSet.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Collections.Generic\ObservableList.cs,150,,,erichewi,erichewi,,,'bb97be,,,rilehudd,'bb97be,erichewi,'bb97be,'bb97be
+SEL\Common\Collections.Generic\ObservableSortedList.cs,175,,,erichewi,stango,,No UT Paperwork,'3618ef,,'393d77,rilehudd,'3618ef,stango,'3618ef,'e2d8e2
+SEL\Common\Collections.Generic\ObservedLinq.cs,175,,,erichewi,willmorr,,No UT Paperwork,'44dafe,,'97320a,erichewi,'44dafe,willmorr,'44dafe,'44dafe
+SEL\Common\Collections.Generic\ReferenceCountedDictionary.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Collections.Generic\SortedList.cs,150,,,erichewi,stango,,No UT Paperwork,'3618ef,,,rilehudd,'3618ef,stango,'3618ef,'e2d8e2
+SEL\Common\Collections.Generic\TupleList.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Command.cs,175,,,erichewi,stango,9335,No UT Paperwork,'3148a3,,'5f2a78,rilehudd,'3148a3,stango,'3148a3,
+SEL\Common\Compare.cs,175,,,erichewi,stango,9335,,'115467,,'1336bc,rilehudd,'115467,stango,'115467,'e2d8e2
+SEL\Common\ComtradeWriter.cs,150,,,erichewi,stango,,No UT Paperwork,'cc7903,,,stango,'cc7903,erichewi,'cc7903,'cc7903
+SEL\Common\ConfigFile\ConfigFile.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'6288e5,,,willmorr,'6288e5,rilehudd,'6288e5,'6288e5
+SEL\Common\ConfigFile\ConfigFileAttributes.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Constants.cs,150,,,erichewi,stango,,No UT Paperwork,'79ca7e,,,rilehudd,'79ca7e,stango,'79ca7e,'79ca7e
+SEL\Common\Converters\NumericConverters.cs,150,,,erichewi,erichewi,,No UT Paperwork,'5bec8f,,,willmorr,'5bec8f,erichewi,'5bec8f,'5bec8f
+SEL\Common\Converters\SolidColorBrushConverter.cs,150,,,erichewi,stango,,No UT Paperwork,'70aecf,,,willmorr,'70aecf,stango,'70aecf,
+SEL\Common\CSV2Comtrade.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\CSVReader.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\CSVWriter.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\DataContractSerializer.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\DateTimeUtils.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'4efc9f,,,willmorr,'4efc9f,rilehudd,'4efc9f,'4efc9f
+SEL\Common\DependantInvoker.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\DerivedCollection.cs,175,,,erichewi,stango,9335,,'63ed68,,'5be5a2,rilehudd,'63ed68,stango,'63ed68,'63ed68
+SEL\Common\DerivedProperty.cs,175,,,erichewi,stango,9335,No UT Paperwork,'a4dfd2,,'4394a4,rilehudd,'a4dfd2,stango,'a4dfd2,'a4dfd2
+SEL\Common\DirectoryHelpers.cs,150,,,erichewi,stango,,,'a673e9,,,erichewi,'a673e9,stango,'a673e9,
+SEL\Common\EnumExtensions.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\ExceptionExtensions.cs,,,RecSharp-Auto: Moved/Added File 10/3/2014,erichewi,stango,,,'f029b4,,,rilehudd,'f029b4,erichewi,'f029b4,
+SEL\Common\Extensions.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\FileSystemNameEscaping.cs,150,,,erichewi,stango,,,'f7f4db,,,rilehudd,'f7f4db,stango,'f7f4db,'f7f4db
+SEL\Common\FileUtil.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'d3b3ca,,,willmorr,'d3b3ca,rilehudd,'d3b3ca,'d3b3ca
+SEL\Common\HashBuilder.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\IirFilter.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Interval.cs,150,,,erichewi,erichewi,,,'fc7265,,,rilehudd,'fc7265,erichewi,'fc7265,'fc7265
+SEL\Common\MathFunctions.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Math\IirFilter.cs,150,,,erichewi,stango,,No UT Paperwork,'48d06e,,,rilehudd,'48d06e,stango,'48d06e,
+SEL\Common\Math\MathFunctions.cs,150,,,erichewi,erichewi,,No UT Paperwork,'e82205,,,rilehudd,'e82205,erichewi,'e82205,'e82205
+SEL\Common\Math\Spline\CubicSpline.cs,150,,,erichewi,stango,,Automated,'6714c0,,,erichewi,'6714c0,stango,'6714c0,'6714c0
+SEL\Common\Math\Spline\TriDiagonalMatrix.cs,150,,,erichewi,stango,,Automated,'6714c0,,,erichewi,'6714c0,stango,'6714c0,'6714c0
+SEL\Common\Math\TransformFunctions.cs,175,,,erichewi,rilehudd,,,'52d905,,'b85f5c,willmorr,'52d905,rilehudd,'52d905,'52d905
+SEL\Common\MemoryMappedIPC.cs,150,,,erichewi,erichewi,,No UT Paperwork,'6fdffa,,,stango,'6fdffa,erichewi,'6fdffa,'6fdffa
+SEL\Common\ObservableObject.cs,175,,,erichewi,stango,,No UT Paperwork,'816ea4,rilehudd,'816ea4,rilehudd,'816ea4,stango,'816ea4,
+SEL\Common\PeriodicBackgroundTimer.cs,150,,"Move only, no file content change.",erichewi,stango,,,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Phasor.cs,150,,,erichewi,willmorr,,,'4e9108,,,stango,'4e9108,willmorr,'4e9108,'4e9108
+SEL\Common\PriorityTaskScheduler.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\Processing.cs,150,,,erichewi,stango,,Automated,'24ead3,,,erichewi,'24ead3,rilehudd,'24ead3,'e2d8e2
+SEL\Common\ProductIdentification.cs,150,,,erichewi,willmorr,,No UT Paperwork,'8db35c,,,rilehudd,'8db35c,willmorr,'8db35c,'8db35c
+SEL\Common\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\ReflectionHelpers.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\RepeatedEventLogEntryFilter.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\SecurityUtil.cs,150,,,erichewi,stango,,No UT Paperwork,'eb45f9,,,rilehudd,'eb45f9,stango,'eb45f9,'eb45f9
+SEL\Common\SEL.Common.sln.DotSettings,175,,,erichewi,stango,,No UT Paperwork,'260491,rilehudd,'260491,rilehudd,'260491,stango,'260491,
+SEL\Common\StringEscaping.cs,150,,,erichewi,erichewi,,No UT Paperwork,'37feaa,,,willmorr,'37feaa,erichewi,'37feaa,'37feaa
+SEL\Common\StringExtensions.cs,150,,,erichewi,erichewi,,No UT Paperwork,'47a314,,,rilehudd,'47a314,erichewi,'47a314,'47a314
+SEL\Common\TypeExtensions.cs,175,,,erichewi,stango,9335,Automated,'266d7d,,'47531d,rilehudd,'266d7d,stango,'266d7d,'266d7d
+SEL\Common\WeakEventListener.cs,150,,,erichewi,stango,,No UT Paperwork,'6eb69e,,,erichewi,'6eb69e,stango,'6eb69e,'6eb69e
+SEL\Common\WebServices\WebServiceGeneration.tt,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\WebServices\WebServiceGenerator.tt,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\Common\XmlSerializer.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\MathLib\FilterTaps.cs,150,,Moved file only.,erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\MathLib\ModalAnalysis.cs,150,,Move and using statements only.,erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\MathLib\NMathExtensions.cs,150,,Namespace change only.,erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\MathLib\Prony.cs,150,,Move and using statements only.,erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\MathLib\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+SEL\MathLib\Types.cs,150,,Move and using statements only.,erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Setup\CustomActions\ConfigAndDatabaseUpgrade.cs,175,,,erichewi,stango,,,'05f445,,'e0cdcd,ericball,'05f445,stango,'05f445,'05f445
+Setup\CustomActions\CustomAction.config,150,,"Approved on previous release, converting to new RecSharp format.",erichewi,stango,,None.,'41e093,,,erichewi,'41e093,erichewi,'41e093,
+Setup\CustomActions\Properties\AssemblyInfo.cs,150,,"Approved on previous release, converting to new RecSharp format.",erichewi,stango,,None.,'41e093,,,erichewi,'41e093,erichewi,'41e093,
+Setup\CustomActions\SEL SynchroWAVe Config 1 to 1.5.xslt,150,,"Approved on previous release, converting to new RecSharp format.",erichewi,stango,,None.,'0e4bed,,,erichewi,'0e4bed,erichewi,'0e4bed,
+Setup\CustomActions\SEL SynchroWAVe Config 1.5 to 1.6.xslt,150,,"Approved on previous release, converting to new RecSharp format.",erichewi,stango,,None.,'8777a8,,,erichewi,'8777a8,erichewi,'8777a8,
+Setup\CustomActions\SEL SynchroWAVe Config 1.6 to 1.7.xslt,175,,,erichewi,stango,,,'05f445,ericball,'05f445,ericball,'05f445,stango,'05f445,'05f445
+Setup\CustomActions\Version1Uninstall.cs,150,,"Approved on previous release, converting to new RecSharp format.",erichewi,stango,,None.,'41e093,,,erichewi,'41e093,erichewi,'41e093,
+Setup\MyPFX.pfx,150,,,erichewi,stango,,,'3e4b69,,,erichewi,'3e4b69,stango,'3e4b69,'3e4b69
+Setup\SEL Software License Agreement.rtf,150,,"Approved on previous release, converting to new RecSharp format.",erichewi,stango,,None.,'8c47e5,,,erichewi,'8c47e5,erichewi,'8c47e5,
+Setup\SEL SynchroWAVe Event Viewer\HelpFiles.wxs,150,,,erichewi,rilehudd,,No UT Paperwork,'bf7446,,,willmorr,'bf7446,rilehudd,'bf7446,'bf7446
+Setup\SEL SynchroWAVe Event Viewer\Product.wxs,150,,,erichewi,willmorr,,,'541541,,,rilehudd,'541541,willmorr,'541541,'541541
+Setup\SEL SynchroWAVe Event Viewer\SEL SynchroWAVe Event Viewer.wixproj,0,,RecSharp-Auto: New Edits Detected 10/3/2014,erichewi,rilehudd,,,'045446,,,erichewi,'045446,erichewi,'045446,'a0bd29
+Setup\SEL SynchroWAVe Historian\Product.wxs,150,,,erichewi,erichewi,,No UT Paperwork,'2308d6,,,willmorr,'2308d6,erichewi,'2308d6,'2308d6
+Setup\SEL SynchroWAVe Historian\SEL SynchroWAVe Historian.wixproj,0,rdlabs_build_user@STANGOVM.ad.selinc.com,RecSharp-Auto: New Edits Detected 12/10/2014,erichewi,rilehudd,,,'54a571,,,,,,,'05e89b
+Setup\SEL SynchroWAVe Services\Admin.wxs,150,,,erichewi,erichewi,,No UT Paperwork,'f22d10,,,stango,'f22d10,erichewi,'f22d10,'f22d10
+Setup\SEL SynchroWAVe Services\MainService.wxs,150,,,erichewi,stango,,No UT Paperwork,'ade5b4,,,stango,'ade5b4,erichewi,'ade5b4,'ade5b4
+Setup\SEL SynchroWAVe Services\Microsoft_VC100_CRT_x86.msm,150,,,erichewi,stango,,,'0d5e3d,,,stango,'0d5e3d,erichewi,'0d5e3d,'0d5e3d
+Setup\SEL SynchroWAVe Services\Product.wxs,150,,,erichewi,erichewi,,No UT Paperwork,'2308d6,,,willmorr,'2308d6,erichewi,'2308d6,'2308d6
+Setup\SEL SynchroWAVe Services\SEL SynchroWAVe Services.wixproj,0,rdlabs_build_user@STANGOVM.ad.selinc.com,RecSharp-Auto: New Edits Detected 12/10/2014,erichewi,rilehudd,,,'54a571,,,,,,,'05e89b
+Setup\SEL SynchroWAVe Services\Tools.wxs,150,,,erichewi,stango,,,'66b8bd,,,stango,'66b8bd,erichewi,'66b8bd,'66b8bd
+Setup\SEL SynchroWAVe Services\Web.wxs,150,,,erichewi,rilehudd,,No UT Paperwork,'bf7446,,,willmorr,'bf7446,rilehudd,'bf7446,'bf7446
+SilverlightUiTest\App.xaml.cs,150,,,erichewi,stango,,No UT Paperwork,'58e840,,,rilehudd,'58e840,stango,'58e840,'58e840
+SynchroWAVe.sln,175,,,erichewi,stango,,No UT Paperwork,'3bbf42,,'dab83d,willmorr,'3bbf42,stango,'3bbf42,'3bbf42
+Synchrowave\Admin\app.manifest,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\App.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\App.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Accessors\IISExpressConfigAccessor.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Accessors\LDAPAccessor.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Accessors\WebConfigAccessor.cs,50,,RecSharp-Auto: New Edits Detected 2/27/2014,stango,stango,,,'0037c4,,,rilehudd,'0037c4,erichewi,'0037c4,'0af600
+Synchrowave\Admin\AuthenticationSecurityLibrary\AuthenticationSecurityException.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Authentication\AuthenticationADType.cs,175,,,rilehudd,erichewi,,,'d0197b,,'d0197b,rilehudd,'d0197b,stango,'d0197b,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Authentication\AuthenticationEditor.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Authentication\AuthenticationGroup.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Authentication\AuthenticationSettings.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Authentication\AuthenticationUser.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Certificates\CertificateController.cs,0,,"Move only, no file content change.",rilehudd,erichewi,,,'53622d,,,rilehudd,'53622d,erichewi,'53622d,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Certificates\CertificateFromPortAndStore.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Certificates\CertificateLoader.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'52c1be,,,dylapowe,'52c1be,erichewi,'52c1be,'52c1be
+Synchrowave\Admin\AuthenticationSecurityLibrary\Certificates\ICertificateFactory.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Commanders\UnmanagedHTTPApi.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'fa6723,,,stango,'fa6723,erichewi,'fa6723,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Config.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\AuthenticationSecurityLibrary\GlobalFunctions.cs,175,,,rilehudd,erichewi,,No UT Paperwork,'c52fc5,willmorr,'c52fc5,willmorr,'c52fc5,erichewi,'c52fc5,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Security\SecurityEditor.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\AuthenticationSecurityLibrary\Security\SecuritySettings.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\DatabaseManagement\Importer\CSVImporter.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'a80eeb,,,erichewi,'a80eeb,rilehudd,'a80eeb,'a80eeb
+Synchrowave\Admin\DatabaseManagement\Importer\ImportingStatusHelpers.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\DatabaseManagement\Importer\Misc.cs,150,,Moved file only.,rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\DatabaseManagement\Importer\SEL.Synchrowave.PDCAssistant.exe,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\DatabaseManagement\Importer\SELxx73Importer.cs,175,,,rilehudd,erichewi,,,'a67f96,ericball,'a67f96,ericball,'a67f96,erichewi,'a67f96,'a67f96
+Synchrowave\Admin\DatabaseManagement\Importer\TagMap.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\DatabaseManagement\Remapper\RemapperBase.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\DatabaseManagement\Remapper\StaticResources.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\DatabaseManagement\Remapper\StationRenamer.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\DatabaseManagement\Remapper\TagRemapper.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\DatabaseManagement\Reporter\ReportMaker.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'2eef9b,,,rilehudd,'2eef9b,stango,'2eef9b,'2eef9b
+Synchrowave\Admin\DatabaseManagement\Reporter\StationProfile.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\DatabaseManagement\Reporter\Transform.xsl,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\MainWindow.xaml,150,,,rilehudd,erichewi,,No UT Paperwork,'dc7c39,,,rilehudd,'dc7c39,stango,'dc7c39,'dc7c39
+Synchrowave\Admin\MainWindow.xaml.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'9d1669,,,willmorr,'9d1669,erichewi,'9d1669,'9d1669
+Synchrowave\Admin\Misc\AdminConverters.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'6fdffa,,,stango,'6fdffa,erichewi,'6fdffa,'6fdffa
+Synchrowave\Admin\Misc\AdminSettingProperty.cs,175,,,rilehudd,stango,,No UT Paperwork,'a02c05,,'5f3143,rilehudd,'a02c05,stango,'a02c05,'a02c05
+Synchrowave\Admin\Misc\AdminUtil.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Misc\AssetQuantityDictionary.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Misc\DataGridBehavior.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Misc\TypeConverters.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Models.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Notifications\NotificationView.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Notifications\NotificationView.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Notifications\NotificationViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Properties\Resources.Designer.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Properties\Resources.resx,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Properties\Settings.Designer.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Properties\Settings.settings,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Styles\ControlProperties.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Styles\Themes.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\AlarmSettingControl.xaml,150,,,rilehudd,erichewi,,No UT Paperwork,'3c7c50,,,rilehudd,'3c7c50,erichewi,'3c7c50,
+Synchrowave\Admin\UserInterface\AlarmSettingControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\AnalyticsSettingsControl.xaml,150,,,rilehudd,erichewi,,No UT Paperwork,'5f3143,,,rilehudd,'5f3143,erichewi,'5f3143,
+Synchrowave\Admin\UserInterface\AnalyticsSettingsControl.xaml.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'7734e3,,,rilehudd,'7734e3,erichewi,'7734e3,
+Synchrowave\Admin\UserInterface\DataCenterSettingsControl.xaml,175,,,rilehudd,erichewi,,No UT Paperwork,'7c573e,,'57f5ad,rilehudd,'7c573e,erichewi,'7c573e,'7c573e
+Synchrowave\Admin\UserInterface\DataCenterSettingsControl.xaml.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'7c573e,,,rilehudd,'7c573e,erichewi,'7c573e,'7c573e
+Synchrowave\Admin\UserInterface\MappingSettingsControl.xaml,150,,,rilehudd,erichewi,,No UT Paperwork,'430936,,,rilehudd,'430936,erichewi,'430936,'430936
+Synchrowave\Admin\UserInterface\MappingSettingsControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\MapSettingsControl.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\MapSettingsControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\MultiComboBox.xaml,150,,,rilehudd,erichewi,,No UT Paperwork,'e9fa27,,,erichewi,'e9fa27,willmorr,'e9fa27,
+Synchrowave\Admin\UserInterface\MultiComboBox.xaml.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'e9fa27,,,erichewi,'e9fa27,stango,'e9fa27,
+Synchrowave\Admin\UserInterface\PageTemplates.xaml,175,,,rilehudd,erichewi,,No UT Paperwork,'7abd62,,'74e580,rilehudd,'7abd62,erichewi,'7abd62,'7abd62
+Synchrowave\Admin\UserInterface\RegionSettings.xaml,150,,,rilehudd,erichewi,,No UT Paperwork,'a8993b,,,willmorr,'a8993b,erichewi,'a8993b,'a8993b
+Synchrowave\Admin\UserInterface\RegionSettings.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'a8993b,
+Synchrowave\Admin\UserInterface\RegionViewControl.xaml,150,,,rilehudd,erichewi,,No UT Paperwork,'a8993b,,,willmorr,'a8993b,erichewi,'a8993b,'a8993b
+Synchrowave\Admin\UserInterface\RegionViewControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\AdminDateTimeControl.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\AdminDateTimeControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\CheckBoxSettingControl.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\CheckBoxSettingControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\ComboBoxSettingControl.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\ComboBoxSettingControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\FileSettingControl.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\FileSettingControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\FolderSettingControl.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\FolderSettingControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\LabelSettingControl.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\LabelSettingControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\ListBoxSettingsControl.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\ListBoxSettingsControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\PasswordSettingControl.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\PasswordSettingControl.xaml.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'604315,,,rilehudd,'604315,stango,'604315,'604315
+Synchrowave\Admin\UserInterface\SettingsControls\TextSettingControl.xaml,150,,,rilehudd,erichewi,,None,'76e758,,,erichewi,'76e758,willmorr,'76e758,
+Synchrowave\Admin\UserInterface\SettingsControls\TextSettingControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\SettingsControls\TreeViewControl.xaml,150,,,rilehudd,stango,,No UT Paperwork,'ca9482,,,rilehudd,'ca9482,stango,'ca9482,'ca9482
+Synchrowave\Admin\UserInterface\SettingsControls\TreeViewControl.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\UserInterface\TeamDatabaseSettingsControl.xaml,150,,,rilehudd,erichewi,,No UT Paperwork,'60ab49,,,rilehudd,'60ab49,stango,'60ab49,'60ab49
+Synchrowave\Admin\UserInterface\TeamDatabaseSettingsControl.xaml.cs,150,,,rilehudd,erichewi,,,'d66fb3,,,stango,'d66fb3,erichewi,'d66fb3,'d66fb3
+Synchrowave\Admin\ViewModels\AdminPageViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\AdminSettingViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\AlarmSettingsViewModel.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'eae2e2,,,rilehudd,'eae2e2,stango,'eae2e2,'eae2e2
+Synchrowave\Admin\ViewModels\AnalyticsSettingsViewModel.cs,150,,,rilehudd,willmorr,,No UT Paperwork,'18dcf7,,,rilehudd,'18dcf7,willmorr,'18dcf7,'18dcf7
+Synchrowave\Admin\ViewModels\AssetDetailsViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\AuthenticationViewModel.cs,150,,,rilehudd,stango,,No UT Paperwork,'eae2e2,,,rilehudd,'eae2e2,stango,'eae2e2,'eae2e2
+Synchrowave\Admin\ViewModels\Database Management\DMExportingViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\Database Management\DMImportingBase.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\Database Management\DMImportingCSV.cs,150,,"Fixed warnings only, no functional change.",rilehudd,erichewi,,No UT Paperwork,'a3be8a,,,rilehudd,'a3be8a,erichewi,'a3be8a,
+Synchrowave\Admin\ViewModels\Database Management\DMImportingPDC.cs,175,,,rilehudd,erichewi,,,'a67f96,ericball,'a67f96,ericball,'a67f96,erichewi,'a67f96,'a67f96
+Synchrowave\Admin\ViewModels\Database Management\DMImportingViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\Database Management\DMRemappingBase.cs,150,,,rilehudd,erichewi,,,'1f6f4d,,,ericball,'1f6f4d,erichewi,'1f6f4d,'1f6f4d
+Synchrowave\Admin\ViewModels\Database Management\DMRemappingStations.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\Database Management\DMRemappingTags.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\Database Management\DMRemappingViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\Database Management\FileViewModel.cs,150,,,rilehudd,erichewi,,,'20f653,,,ericball,'20f653,erichewi,'20f653,'20f653
+Synchrowave\Admin\ViewModels\DataCenterSettingsViewModel.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'98400b,,,rilehudd,'98400b,erichewi,'98400b,'98400b
+Synchrowave\Admin\ViewModels\DataCenterViewModel.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'d96daa,,,rilehudd,'d96daa,stango,'d96daa,'d96daa
+Synchrowave\Admin\ViewModels\HistorianInputViewModel.cs,175,,,rilehudd,erichewi,,No UT Paperwork,'70046f,,'0f3a91,stango,'70046f,erichewi,'70046f,'70046f
+Synchrowave\Admin\ViewModels\HistorianSettingsViewModel.cs,175,,,rilehudd,erichewi,,No UT Paperwork,'85477c,,'15c33d,stango,'85477c,erichewi,'85477c,'85477c
+Synchrowave\Admin\ViewModels\LineViewModel.cs,150,,,rilehudd,erichewi,,,'24e56a,,,erichewi,'24e56a,willmorr,'24e56a,
+Synchrowave\Admin\ViewModels\MainViewModel.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'79c33c,,,willmorr,'79c33c,erichewi,'79c33c,'79c33c
+Synchrowave\Admin\ViewModels\MappingSettingsViewModel.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'812267,,,stango,'812267,erichewi,'812267,'812267
+Synchrowave\Admin\ViewModels\MapSettingViewModel.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'a02c05,,,rilehudd,'a02c05,erichewi,'a02c05,'a02c05
+Synchrowave\Admin\ViewModels\MASettingsViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\MultipleSelectComboBoxItem.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'c6f93b,,,erichewi,'c6f93b,willmorr,'c6f93b,
+Synchrowave\Admin\ViewModels\RegionsSettingsViewModel.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'a8993b,,,willmorr,'a8993b,erichewi,'a8993b,'a8993b
+Synchrowave\Admin\ViewModels\RegionViewModel.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'93857e,,,rilehudd,'93857e,stango,'93857e,'93857e
+Synchrowave\Admin\ViewModels\RetentionPeriodViewModel.cs,175,,,rilehudd,erichewi,,No UT Paperwork,'fff215,,'c770f6,rilehudd,'fff215,erichewi,'fff215,'fff215
+Synchrowave\Admin\ViewModels\Security\CertificateSourceViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\Security\CreateCertViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\Security\SecurityViewModel.cs,175,,,rilehudd,erichewi,,No UT Paperwork,'eae2e2,,'dbcf45,rilehudd,'eae2e2,stango,'eae2e2,'eae2e2
+Synchrowave\Admin\ViewModels\SettingsPageViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\SettingSubSectionViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\SignalAlarmViewModel.cs,150,,"Move only, no file content change.",first.IsSelected.Value = true;,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\StationDetailsViewModel.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\ViewModels\TagMapDetailsViewModel.cs,150,,,rilehudd,erichewi,,,'dc8e7c,,,stango,'dc8e7c,erichewi,'dc8e7c,'dc8e7c
+Synchrowave\Admin\ViewModels\TeamDatabaseSettingsViewModel.cs,150,,,rilehudd,willmorr,,,'6cd5fe,,,erichewi,'6cd5fe,willmorr,'6cd5fe,'6cd5fe
+Synchrowave\Admin\Views\app.config,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Views\CreateCert.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Views\CreateCert.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Views\LicenseDialog.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Views\LicenseDialog.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Views\LoadingOverlayView.xaml,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Views\LoadingOverlayView.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Views\SettingsPageView.xaml,150,,,rilehudd,erichewi,,No UT Paperwork,'553600,,,rilehudd,'553600,erichewi,'553600,'553600
+Synchrowave\Admin\Views\SettingsPageView.xaml.cs,150,,"Move only, no file content change.",rilehudd,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Admin\Views\TextboxDialog.xaml,150,,,rilehudd,erichewi,,,'7461d7,,,stango,'7461d7,willmorr,'7461d7,'7461d7
+Synchrowave\Admin\Views\TextboxDialog.xaml.cs,150,,,rilehudd,erichewi,,No UT Paperwork,'0e19ac,,,stango,'0e19ac,erichewi,'0e19ac,'0e19ac
+Synchrowave\AnalyticStandaloneProxy\app.config,150,,,erichewi,willmorr,,No UT Paperwork,'6968d3,,,rilehudd,'6968d3,willmorr,'6968d3,'6968d3
+Synchrowave\AnalyticStandaloneProxy\Program.cs,75,,RecSharp-Auto: New Edits Detected 10/3/2014,erichewi,rilehudd,,No UT Paperwork,'f029b4,,'005afe,stango,'f029b4,erichewi,'f029b4,'cef85b
+Synchrowave\AnalyticStandaloneProxy\Properties\AssemblyInfo.cs,0,,RecSharp-Auto: New Edits Detected 10/3/2014,erichewi,willmorr,,,'045446,,,erichewi,'045446,erichewi,'045446,'a0bd29
+Synchrowave\AnalyticStandaloneProxy\Resource1.Designer.cs,150,,,erichewi,willmorr,,No UT Paperwork,'6968d3,,,rilehudd,'6968d3,willmorr,'6968d3,'6968d3
+Synchrowave\AnalyticStandaloneProxy\Resource1.resx,150,,,erichewi,stango,,No UT Paperwork,'966a02,,,rilehudd,'966a02,stango,'966a02,'966a02
+Synchrowave\AnalyticStandaloneProxy\Resources\NoSilverlightPage.htm,150,,,erichewi,stango,,No UT Paperwork,'7ce18f,,,rilehudd,'7ce18f,stango,'7ce18f,'7ce18f
+Synchrowave\C37_118.Client\BaseFrame.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\C37_118.Client\Client.cs,175,,,erichewi,erichewi,,No UT Paperwork,'870a2c,,'cd51cf,willmorr,'870a2c,erichewi,'870a2c,'870a2c
+Synchrowave\C37_118.Client\Command.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\C37_118.Client\Config.cs,150,,,erichewi,stango,,Printed Changes Only,'ccfe66,,,erichewi,'ccfe66,stango,'ccfe66,
+Synchrowave\C37_118.Client\Data.cs,100,,,erichewi,stango,,No UT Paperwork,'41dce0,,,erichewi,'41dce0,stango,'41dce0,
+Synchrowave\C37_118.Client\Misc.cs,175,,,erichewi,erichewi,,No UT Paperwork,'76c72c,stango,'76c72c,stango,'76c72c,erichewi,'76c72c,
+Synchrowave\C37_118.Client\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\C37_118.Client\SynchrophasorTcpClient.cs,175,,,erichewi,erichewi,,,'c26686,,'cd51cf,stango,'c26686,erichewi,'c26686,'e2d8e2
+Synchrowave\C37_118.Client\Utils.cs,150,,,erichewi,stango,,,'59a19e,,,erichewi,'59a19e,stango,'59a19e,
+Synchrowave\Central.SL\App.xaml,150,,Namespace and path changes only.,erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Central.SL\App.xaml.cs,150,,,erichewi,rilehudd,,Printed Changes Only,'8a25a4,,,willmorr,'8a25a4,rilehudd,'8a25a4,'8a25a4
+Synchrowave\Central.SL\Controls\DateTimeSelectionBar.cs,175,,,erichewi,erichewi,,Printed Changes Only,'22f590,,'9f0b1b,erichewi,'22f590,willmorr,'22f590,'22f590
+Synchrowave\Central.SL\Controls\Segment.cs,150,,,erichewi,erichewi,,Printed Changes Only,'c90dda,,,erichewi,'c90dda,willmorr,'c90dda,'c90dda
+Synchrowave\Central.SL\Controls\SharedViewManager.xaml,175,,,erichewi,stango,,No UT Paperwork,'62f2d5,,'3952e5,rilehudd,'62f2d5,stango,'62f2d5,'62f2d5
+Synchrowave\Central.SL\Controls\SharedViewManager.xaml.cs,175,,,erichewi,stango,,No UT Paperwork,'af8574,rilehudd,'af8574,rilehudd,'af8574,stango,'af8574,
+Synchrowave\Central.SL\Printscreen.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Central.SL\Properties\AppManifest.xml,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Central.SL\Properties\AssemblyInfo.cs,0,rdlabs_build_user@STANGOVM.ad.selinc.com,RecSharp-Auto: New Edits Detected 12/10/2014,erichewi,rilehudd,,,'54a571,,,,,,,'05e89b
+Synchrowave\Central.SL\Styles\timescaleSelectorStyle.xaml,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Central.SL\Styles\ZoomZoomBarStyles.xaml,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Central.SL\ViewModels\SharedViewManagerVM.cs,150,,,erichewi,stango,,No UT Paperwork,'5813ac,,,rilehudd,'5813ac,stango,'5813ac,'5813ac
+Synchrowave\Central.SL\ViewModels\UpgradeSilverlightStorageToServer.cs,75,,Brought over approval from ECO 13-0011 R-release.,stango,willmorr,,,'7c746c,,'8d74ad,rilehudd,'7c746c,erichewi,'7c746c,'bb745f
+Synchrowave\Central.SL\ViewModels\ViewFileVM.cs,175,,,erichewi,stango,,No UT Paperwork,'09e1fc,rilehudd,'09e1fc,rilehudd,'09e1fc,stango,'09e1fc,
+Synchrowave\Central.SL\ViewModels\ViewsViewModel.cs,150,,,erichewi,erichewi,,No UT Paperwork,'1fd457,,,rilehudd,'1fd457,erichewi,'1fd457,'1fd457
+Synchrowave\Central.SL\ViewModels\ViewVM.cs,150,,,erichewi,erichewi,,No UT Paperwork,'107dfb,,,willmorr,'107dfb,erichewi,'107dfb,'107dfb
+Synchrowave\Central.SL\Views\DebugView.xaml,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Central.SL\Views\DebugView.xaml.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Central.SL\Views\MainView.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'5e21ae,,,willmorr,'5e21ae,rilehudd,'5e21ae,'5e21ae
+Synchrowave\Central.SL\Views\MainView.xaml.cs,150,,,erichewi,erichewi,,No UT Paperwork,'b9f833,,,rilehudd,'b9f833,erichewi,'b9f833,'b9f833
+Synchrowave\Central.SL\Views\RightPanelView.xaml,175,,,erichewi,stango,,No UT Paperwork,'e068d3,,'acc88c,rilehudd,'e068d3,stango,'e068d3,
+Synchrowave\Central.SL\Views\RightPanelView.xaml.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Central.SL\Views\SplashPage.cs,175,,,erichewi,erichewi,,No UT Paperwork,'8897b8,,'c5ce02,willmorr,'8897b8,erichewi,'8897b8,'8897b8
+Synchrowave\Central.SL\Views\ViewSelectorView.xaml,175,,,erichewi,rilehudd,,No UT Paperwork,'caeb19,,'eeb93a,willmorr,'caeb19,rilehudd,'caeb19,'caeb19
+Synchrowave\Central.SL\Views\ViewSelectorView.xaml.cs,175,,,erichewi,stango,,No UT Paperwork,'54b416,,'eeb93a,rilehudd,'54b416,stango,'54b416,
+Synchrowave\Central.SL\Views\ZoomView.xaml,150,,,erichewi,stango,,No UT Paperwork,'b3a1c4,,,willmorr,'b3a1c4,stango,'b3a1c4,'b3a1c4
+Synchrowave\Central.SL\Views\ZoomView.xaml.cs,175,,,erichewi,willmorr,,No UT Paperwork,'a85bb0,,'3bb267,erichewi,'a85bb0,willmorr,'a85bb0,'a85bb0
+Synchrowave\Common.New.SL\Controls\BlockInteractionsIfX.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'47623b,,,willmorr,'47623b,rilehudd,'47623b,'47623b
+Synchrowave\Common.New.SL\Controls\ColorChooser.xaml,175,,,erichewi,willmorr,,No UT Paperwork,'135b4d,,'70aecf,erichewi,'135b4d,willmorr,'135b4d,'135b4d
+Synchrowave\Common.New.SL\Controls\ColorChooser.xaml.cs,175,,,erichewi,stango,9723,No UT Paperwork,'c271f8,ccollab,'c271f8,willmorr,'c271f8,stango,'c271f8,'e2d8e2
+Synchrowave\Common.New.SL\Controls\ColorPicker\ColorBoard.cs,150,,,erichewi,willmorr,,No UT Paperwork,'135b4d,,,erichewi,'135b4d,willmorr,'135b4d,'135b4d
+Synchrowave\Common.New.SL\Controls\ColorPicker\ColorHelper.cs,150,,,erichewi,willmorr,,No UT Paperwork,'135b4d,,,erichewi,'135b4d,willmorr,'135b4d,'135b4d
+Synchrowave\Common.New.SL\Controls\ColorPicker\ColorPicker.cs,150,,,erichewi,willmorr,,No UT Paperwork,'135b4d,,,erichewi,'135b4d,willmorr,'135b4d,'135b4d
+Synchrowave\Common.New.SL\Controls\ColorPicker\ColorPickerStyles.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'135b4d,,,erichewi,'135b4d,willmorr,'135b4d,'135b4d
+Synchrowave\Common.New.SL\Controls\ColorPicker\PredefinedColor.cs,150,,,erichewi,willmorr,,No UT Paperwork,'135b4d,,,erichewi,'135b4d,willmorr,'135b4d,'135b4d
+Synchrowave\Common.New.SL\Controls\ColorPicker\PredefinedColorItem.cs,150,,,erichewi,willmorr,,No UT Paperwork,'135b4d,,,erichewi,'135b4d,willmorr,'135b4d,'135b4d
+Synchrowave\Common.New.SL\Controls\FadingOverlay.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'c5f921,,,rilehudd,'c5f921,willmorr,'c5f921,'c5f921
+Synchrowave\Common.New.SL\Controls\FadingOverlay.xaml.cs,150,,,erichewi,willmorr,,No UT Paperwork,'df2919,,,rilehudd,'df2919,willmorr,'df2919,'df2919
+Synchrowave\Common.New.SL\Controls\Filter.cs,175,,,erichewi,stango,9723,No UT Paperwork,'84719e,,'c62103,willmorr,'84719e,stango,'84719e,'e2d8e2
+Synchrowave\Common.New.SL\Controls\InteractiveBlockingMessagePanel.xaml,175,,,erichewi,rilehudd,,No UT Paperwork,'392d02,,'114b1d,willmorr,'392d02,rilehudd,'392d02,'392d02
+Synchrowave\Common.New.SL\Controls\InteractiveBlockingMessagePanel.xaml.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'114b1d,willmorr,'114b1d,willmorr,'114b1d,rilehudd,'114b1d,'114b1d
+Synchrowave\Common.New.SL\Controls\MenuVM.cs,150,,,erichewi,stango,,New File Full Test,'c271f8,,,willmorr,'c271f8,stango,'c271f8,'c271f8
+Synchrowave\Common.New.SL\Controls\QuantitySelection.xaml,175,,,erichewi,willmorr,,No UT Paperwork,'b64798,,'0962d1,rilehudd,'b64798,willmorr,'b64798,'b64798
+Synchrowave\Common.New.SL\Controls\QuantitySelection.xaml.cs,175,,,erichewi,willmorr,,No UT Paperwork,'b64798,,'0962d1,rilehudd,'b64798,willmorr,'b64798,'b64798
+Synchrowave\Common.New.SL\Controls\QuantitySelectionVM.cs,150,,,erichewi,willmorr,,No UT Paperwork,'880532,,,rilehudd,'880532,willmorr,'880532,'880532
+Synchrowave\Common.New.SL\Controls\QuantityWrapper.cs,175,,,erichewi,stango,,No UT Paperwork,'aa4954,,'0962d1,willmorr,'aa4954,stango,'aa4954,'aa4954
+Synchrowave\Common.New.SL\Controls\RightClickMenuVM.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'fb6705,,'c271f8,willmorr,'fb6705,rilehudd,'fb6705,'fb6705
+Synchrowave\Common.New.SL\Core\ExceptionExentions.cs,150,,,erichewi,willmorr,,No UT Paperwork,'787b2c,,,rilehudd,'787b2c,willmorr,'787b2c,'787b2c
+Synchrowave\Common.New.SL\Core\Styles\Converters.xaml,150,,,erichewi,stango,,No UT Paperwork,'1c65a2,,,rilehudd,'1c65a2,stango,'1c65a2,
+Synchrowave\Common.New.SL\Core\TreeNodeVMs\DisplaySelectionVM.cs,175,,,erichewi,willmorr,,No UT Paperwork,'114b1d,,'a2356f,rilehudd,'114b1d,willmorr,'114b1d,'114b1d
+Synchrowave\Common.New.SL\Core\TreeNodeVMs\NodeBaseVM.cs,175,,,erichewi,erichewi,,No UT Paperwork,'4e8a26,,'4c6721,rilehudd,'4e8a26,erichewi,'4e8a26,'4e8a26
+Synchrowave\Common.New.SL\DataPath\DataCache.cs,150,,,erichewi,stango,,No UT Paperwork,'bdde49,,,erichewi,'bdde49,stango,'bdde49,'bdde49
+Synchrowave\Common.New.SL\DataPath\DataPath.cs,150,,,erichewi,stango,,,'d415a8,,,erichewi,'d415a8,stango,'d415a8,'d415a8
+Synchrowave\Common.New.SL\DataPath\InstantaneousDataCache.cs,150,,,erichewi,stango,,Automated,'2a5306,,,erichewi,'2a5306,stango,'2a5306,'2a5306
+Synchrowave\Common.New.SL\DataPath\Resampler.cs,150,,,erichewi,stango,,,'9ec29e,,,erichewi,'9ec29e,stango,'9ec29e,'9ec29e
+Synchrowave\Common.New.SL\DataPath\TimestampedData.cs,150,,,erichewi,stango,,No UT Paperwork,'ad7a8b,,,willmorr,'ad7a8b,stango,'ad7a8b,'ad7a8b
+Synchrowave\Common.New.SL\DataPath\TimeStampedListMetaData.cs,175,,,erichewi,rilehudd,,,'cd196c,,'b85f5c,willmorr,'cd196c,rilehudd,'cd196c,'cd196c
+Synchrowave\Common.New.SL\ParseFunctions.cs,175,,,erichewi,willmorr,,No UT Paperwork,'c4ac20,,'873b29,stango,'c4ac20,willmorr,'c4ac20,'c4ac20
+Synchrowave\Common.New.SL\ParseUtil.cs,150,,,erichewi,rilehudd,,,'afe466,,,stango,'afe466,rilehudd,'afe466,'afe466
+Synchrowave\Common.New.SL\Properties\AssemblyInfo.cs,150,,,erichewi,stango,,No UT Paperwork,'5af0b4,,,erichewi,'5af0b4,rilehudd,'5af0b4,
+Synchrowave\Common.New.SL\QuantityDirectory\Asset.cs,175,,,erichewi,stango,,New File Full Test,'10f34c,,'9679a9,erichewi,'10f34c,willmorr,'10f34c,'10f34c
+Synchrowave\Common.New.SL\QuantityDirectory\CalculationQuantity.cs,150,,,erichewi,erichewi,,No UT Paperwork,'fbfcc2,,,stango,'fbfcc2,erichewi,'fbfcc2,'fbfcc2
+Synchrowave\Common.New.SL\QuantityDirectory\Characteristics.cs,175,,,erichewi,stango,,,'e77f2d,,'8c4f2b,erichewi,'e77f2d,willmorr,'e77f2d,'e77f2d
+Synchrowave\Common.New.SL\QuantityDirectory\DigitalSummary.cs,175,,,erichewi,stango,9723,No UT Paperwork,'c62103,willmorr,'c62103,willmorr,'c62103,stango,'c62103,
+Synchrowave\Common.New.SL\QuantityDirectory\PhasorComponentQuantity.cs,175,,,erichewi,willmorr,,No UT Paperwork,'cd73af,,'8c4f2b,rilehudd,'cd73af,willmorr,'cd73af,'cd73af
+Synchrowave\Common.New.SL\QuantityDirectory\Quantity.cs,175,,,erichewi,willmorr,,No UT Paperwork,'76759d,,'8c4f2b,erichewi,'76759d,willmorr,'76759d,'76759d
+Synchrowave\Common.New.SL\QuantityDirectory\QuantityDirectory.cs,175,,,erichewi,stango,,,'98d649,,'9679a9,erichewi,'98d649,willmorr,'98d649,'98d649
+Synchrowave\Common.New.SL\QuantityDirectory\StandardCharacteristics.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'3d8150,,,willmorr,'3d8150,rilehudd,'3d8150,'3d8150
+Synchrowave\Common.New.SL\Time\ChartTimeCursor.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'f3dafd,,'4139d3,willmorr,'f3dafd,rilehudd,'f3dafd,'f3dafd
+Synchrowave\Common.New.SL\Time\TimeCursorSeries.cs,175,,,erichewi,willmorr,,No UT Paperwork,'0a9055,,'6dd429,rilehudd,'0a9055,willmorr,'0a9055,'0a9055
+Synchrowave\Common.New.SL\Time\TimeCursorToolTip.xaml,150,,,erichewi,stango,,No UT Paperwork,'9fca95,,,erichewi,'9fca95,rilehudd,'9fca95,'9fca95
+Synchrowave\Common.New.SL\Time\TimeCursorToolTip.xaml.cs,150,,,erichewi,stango,,No UT Paperwork,'13d05b,,,rilehudd,'13d05b,stango,'13d05b,
+Synchrowave\Common.SL\Charting\Behaviors\CrosshairBehavior.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Charting\Behaviors\MultiClickOnChartBehavior.cs,150,,,erichewi,stango,,No UT Paperwork,'70d9b4,,,rilehudd,'70d9b4,stango,'70d9b4,'70d9b4
+Synchrowave\Common.SL\Charting\Behaviors\SeriesItemInfo.cs,175,,,erichewi,stango,,No UT Paperwork,'352740,rilehudd,'352740,rilehudd,'352740,stango,'352740,
+Synchrowave\Common.SL\Charting\Behaviors\TooltipBehavior.cs,175,,,erichewi,stango,,No UT Paperwork,'8ca416,,'999c6f,rilehudd,'8ca416,stango,'8ca416,'8ca416
+Synchrowave\Common.SL\Charting\DataChart.cs,150,,,erichewi,willmorr,,No UT Paperwork,'0a9055,,,rilehudd,'0a9055,willmorr,'0a9055,'0a9055
+Synchrowave\Common.SL\Charting\DateTimeAxis.cs,175,,,erichewi,stango,,No UT Paperwork,'31854d,,'09a8d8,rilehudd,'31854d,stango,'31854d,'31854d
+Synchrowave\Common.SL\Charting\Extensions.cs,175,,,erichewi,stango,,Printed Changes Only,'e77031,willmorr,'e77031,willmorr,'e77031,stango,'e77031,
+Synchrowave\Common.SL\Charting\IChartYPadding.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Charting\OADateConverter.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Charting\SeriesBinding.cs,150,,,erichewi,erichewi,,No UT Paperwork,'a2dae2,,,rilehudd,'a2dae2,erichewi,'a2dae2,'a2dae2
+Synchrowave\Common.SL\Charting\Styles\Theme.xaml,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Charting\Styles\XamDataChartStyles.xaml,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Charting\XAxisViewModel.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'c90dda,,'d1b663,erichewi,'c90dda,rilehudd,'c90dda,'c90dda
+Synchrowave\Common.SL\Charting\YAxisHelpers.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Charting\YAxisScaleDialog.cs,150,,,erichewi,stango,,No UT Paperwork,'7eb075,,,willmorr,'7eb075,stango,'7eb075,'7eb075
+Synchrowave\Common.SL\Charting\YAxisViewModel.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'6434cb,,'4cfefe,erichewi,'6434cb,rilehudd,'6434cb,'6434cb
+Synchrowave\Common.SL\Controls\DateTimePicker.xaml,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Controls\DateTimePicker.xaml.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Controls\TextSearchControl.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'2761cf,,,willmorr,'2761cf,rilehudd,'2761cf,'2761cf
+Synchrowave\Common.SL\Controls\TextSearchControl.xaml.cs,175,,,erichewi,willmorr,,No UT Paperwork,'89ba9f,,421dcf,rilehudd,'89ba9f,willmorr,'89ba9f,'89ba9f
+Synchrowave\Common.SL\Core\Constants.cs,150,,,erichewi,stango,,No UT Paperwork,'2d7ca5,,,rilehudd,'2d7ca5,stango,'2d7ca5,'2d7ca5
+Synchrowave\Common.SL\Core\Fonts\INR____.TTF,150,,,erichewi,erichewi,,No UT Paperwork,'d75576,,,willmorr,'d75576,erichewi,'d75576,'d75576
+Synchrowave\Common.SL\Core\Messages\ZoomMessages.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Core\Models\ComputedQuantityHelper.cs,150,,,erichewi,stango,,New File Full Test,'0717ec,,,erichewi,'0717ec,stango,'0717ec,'0717ec
+Synchrowave\Common.SL\Core\Models\DataAcquisition.cs,175,,,erichewi,stango,,Printed Changes Only,'0717ec,,'d1b663,erichewi,'0717ec,stango,'0717ec,'0717ec
+Synchrowave\Common.SL\Core\Models\DataAcquisitionTypes.cs,150,,,erichewi,stango,,No UT Paperwork,'5651cf,,,erichewi,'5651cf,stango,'5651cf,'5651cf
+Synchrowave\Common.SL\Core\Models\DataManagement.cs,150,,,erichewi,stango,,,'50abe2,,,ericball,'50abe2,stango,'50abe2,'50abe2
+Synchrowave\Common.SL\Core\Models\InstantaneousDataAcquisition.cs,150,,,erichewi,stango,,New File Full Test,'434050,,,erichewi,'434050,stango,'434050,'434050
+Synchrowave\Common.SL\Core\Models\PolledDataAcquisition.cs,150,,,erichewi,willmorr,,No UT Paperwork,'61401a,,,erichewi,'61401a,willmorr,'61401a,'61401a
+Synchrowave\Common.SL\Core\Regions\RegionManager.cs,150,,,erichewi,stango,,No UT Paperwork,'0ea658,,,rilehudd,'0ea658,stango,'0ea658,
+Synchrowave\Common.SL\Core\Regions\Regions.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Core\Styles\ButtonStyles.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'ac44c3,,,rilehudd,'ac44c3,willmorr,'ac44c3,'ac44c3
+Synchrowave\Common.SL\Core\Styles\CollapsingGridSplitterStyle.xaml,150,,Move and using statements only.,erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Core\Styles\ControlStyles.xaml,150,,,erichewi,stango,,No UT Paperwork,'3a82a8,,,willmorr,'3a82a8,stango,'3a82a8,
+Synchrowave\Common.SL\Core\Styles\Theme.xaml,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Core\Utilities\AngleReferenceListener.cs,175,,,erichewi,willmorr,,No UT Paperwork,'d3fe16,,'a52790,erichewi,'d3fe16,willmorr,'d3fe16,'d3fe16
+Synchrowave\Common.SL\Core\Utilities\BrowserConsoleLog.cs,175,,,erichewi,stango,6555,No UT Paperwork,'51f47d,willmorr,'51f47d,willmorr,'51f47d,stango,'51f47d,
+Synchrowave\Common.SL\Core\Utilities\DataPoint.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Core\Utilities\DateTimeConverters.cs,175,,,erichewi,erichewi,,New File Full Test,'b3a1c4,,'9f0b1b,willmorr,'b3a1c4,erichewi,'b3a1c4,'b3a1c4
+Synchrowave\Common.SL\Core\Utilities\ITimestamped.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Core\Utilities\Licensing.cs,150,,,erichewi,stango,,,'50abe2,,,ericball,'50abe2,stango,'50abe2,'50abe2
+Synchrowave\Common.SL\Core\Utilities\Listener.cs,150,,,erichewi,willmorr,,No UT Paperwork,'d3fe16,,,erichewi,'d3fe16,willmorr,'d3fe16,'d3fe16
+Synchrowave\Common.SL\Core\Utilities\PowerQuantityListener.cs,150,,,erichewi,willmorr,,No UT Paperwork,'d3fe16,,,erichewi,'d3fe16,willmorr,'d3fe16,'d3fe16
+Synchrowave\Common.SL\Core\Utilities\ZoomLevels.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'feee17,,,willmorr,'feee17,rilehudd,'feee17,'feee17
+Synchrowave\Common.SL\Core\ViewModels\AssetQuantitySelectionViewModel.cs,150,,,erichewi,willmorr,,No UT Paperwork,'d3fe16,,,erichewi,'d3fe16,willmorr,'d3fe16,'d3fe16
+Synchrowave\Common.SL\Core\ViewModels\AssetViewModel.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Core\ViewModels\AvailableTimeRangeViewModel.cs,175,,,erichewi,stango,,No UT Paperwork,'f8e8ac,,'33e5ae,stango,'f8e8ac,erichewi,'f8e8ac,'f8e8ac
+Synchrowave\Common.SL\Core\ViewModels\GlobalViewModel.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Core\ViewModels\MainViewModel.cs,150,,,erichewi,willmorr,,No UT Paperwork,'82c1f0,,,erichewi,'82c1f0,willmorr,'82c1f0,'82c1f0
+Synchrowave\Common.SL\Core\ViewModels\QuantitiesViewModel.cs,175,,,erichewi,stango,,No UT Paperwork,'2f9537,willmorr,2f9537,willmorr,2f9537,stango,'2f9537,
+Synchrowave\Common.SL\Core\ViewModels\RealtimeViewModel.cs,175,,,erichewi,willmorr,,Printed Changes Only,'8fd840,,'d1b663,erichewi,'8fd840,willmorr,'8fd840,'8fd840
+Synchrowave\Common.SL\Core\ViewModels\SelectedAssetViewModel.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Core\ViewModels\TimeRangeViewModel.cs,175,,,erichewi,stango,,No UT Paperwork,'31854d,,'d1b663,rilehudd,'31854d,stango,'31854d,'31854d
+Synchrowave\Common.SL\Core\ViewModels\UserStorage.cs,150,,,erichewi,stango,,No UT Paperwork,'37feaa,,,willmorr,'37feaa,stango,'37feaa,'37feaa
+Synchrowave\Common.SL\Core\ViewModels\ViewModelInitialization.cs,175,,,erichewi,willmorr,,No UT Paperwork,'5976f5,,'fe81ee,stango,'5976f5,erichewi,'5976f5,'5976f5
+Synchrowave\Common.SL\Core\ViewModels\ViewModelLocator.cs,150,,,erichewi,willmorr,,No UT Paperwork,'d3fe16,,,erichewi,'d3fe16,willmorr,'d3fe16,'d3fe16
+Synchrowave\Common.SL\Core\ViewModels\ViewModelLocator.tt,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\Core\ViewModels\ZoomViewModel.cs,175,,,erichewi,willmorr,,No UT Paperwork,'d16317,,'d1b663,rilehudd,'d16317,willmorr,'d16317,'d16317
+Synchrowave\Common.SL\Printscreen.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'48118c,,,erichewi,'48118c,rilehudd,'48118c,'48118c
+Synchrowave\Common.SL\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'fe81ee,,,erichewi,'fe81ee,erichewi,'fe81ee,
+Synchrowave\Common.SL\RestfulService.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'3a1a75,,,stango,'3a1a75,erichewi,'3a1a75,'3a1a75
+Synchrowave\Common\AllQuantities.cs,175,,"File reorganization, namespaces changes only.",erichewi,stango,,None.,'333007,,'333007,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\Asset.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\BindingHelper.cs,175,,,erichewi,stango,9723,No UT Paperwork,'e7569c,,'475cc0,willmorr,'e7569c,stango,'e7569c,
+Synchrowave\Common\Command.cs,175,,,erichewi,stango,,No UT Paperwork,'231f48,rilehudd,'231f48,rilehudd,'231f48,erichewi,'231f48,
+Synchrowave\Common\DataAccess\QuantityReader.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\DataAccess\TagMappingUtils.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\DataAccess\TagsDictionary.cs,100,,,erichewi,stango,,,'b0747f,,,,,erichewi,'b0747f,'b0747f
+Synchrowave\Common\DataIndexer\MinMaxAngleProcessor.cs,150,,,erichewi,stango,,,'9b401e,,,erichewi,'9b401e,stango,'9b401e,
+Synchrowave\Common\DataIndexer\MinMaxProcessor.cs,150,,,erichewi,rilehudd,,,'ab6203,,,erichewi,'ab6203,rilehudd,'ab6203,'ab6203
+Synchrowave\Common\DataIndexer\ProcessorFactoryAPI.cs,125,,,erichewi,stango,,,'70046f,,'bfc43c,,,erichewi,'70046f,'70046f
+Synchrowave\Common\DataIndexer\TagsProcessor.cs,0,,,erichewi,stango,,Manual Unit Test,'c326d8,,,stango,'c326d8,erichewi,'c326d8,'06a9ce
+Synchrowave\Common\DistinguishableColors.cs,150,,,erichewi,stango,,No UT Paperwork,'0984ee,,,willmorr,'0984ee,stango,'0984ee,
+Synchrowave\Common\FindVisual.cs,150,,"File reorganization, namespaces changes only.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\LicensingAPI\CheckLicenseFile.cs,150,,,erichewi,stango,,,'a533e9,,,stango,'a533e9,erichewi,'a533e9,'a533e9
+Synchrowave\Common\LicensingAPI\LicenseFileAPI.cs,150,,"File reorganization, namespaces changes only.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\LicensingAPI\ProcessingUsers.cs,150,,"Fixed warnings only, no functional change.",erichewi,stango,,None.,'96bd4a,,,rilehudd,'96bd4a,erichewi,'96bd4a,
+Synchrowave\Common\MemoryMappedSharingStructures.cs,175,,,erichewi,stango,,No UT Paperwork,'6fdffa,,'bfc43c,stango,'6fdffa,erichewi,'6fdffa,'6fdffa
+Synchrowave\Common\MessageRate.cs,175,,,erichewi,stango,,Automated,'94c90b,,'139f3a,erichewi,'94c90b,stango,'94c90b,'94c90b
+Synchrowave\Common\Phase.cs,100,,,erichewi,stango,,,'93ddf3,,,stango,'93ddf3,stango,'93ddf3,
+Synchrowave\Common\Processing.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\Quantity.cs,150,,,erichewi,willmorr,,,'50abe2,,,ericball,'50abe2,willmorr,'50abe2,'50abe2
+Synchrowave\Common\SELColors.cs,175,,,erichewi,rilehudd,,Printed Changes Only,'76178a,,'6f1200,willmorr,'76178a,rilehudd,'76178a,'76178a
+Synchrowave\Common\ServerConfig\ComputedQuantitiesCollection.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\ServerConfig\Configuration.cs,175,,,erichewi,stango,,,'dc3bf9,ericball,'dc3bf9,ericball,'dc3bf9,stango,'dc3bf9,'dc3bf9
+Synchrowave\Common\ServerConfig\DistinctQuantitiesCollection.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\ServerConfig\ExportConfig.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\ServerConfig\PowerComputations.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\ServerConfig\QualifiedQuantity.cs,150,,,erichewi,stango,,,'b33dba,,,stango,'b33dba,erichewi,'b33dba,'b33dba
+Synchrowave\Common\ServerConfig\ServerConfigFile.cs,150,,,erichewi,stango,,No UT Paperwork,'9d1669,,,willmorr,'9d1669,stango,'9d1669,'9d1669
+Synchrowave\Common\ServerConfig\Stations.cs,175,,,erichewi,stango,,No UT Paperwork,'51e6ef,rilehudd,'51e6ef,rilehudd,'51e6ef,stango,'51e6ef,
+Synchrowave\Common\ServerConfig\StationTagsCollection.cs,150,,,erichewi,willmorr,,No UT Paperwork,'f8e8ac,,,stango,'f8e8ac,willmorr,'f8e8ac,'f8e8ac
+Synchrowave\Common\SQLiteConnectionFactory.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\Status.cs,150,,,erichewi,stango,,No UT Paperwork,'3c7c50,,,rilehudd,'3c7c50,stango,'3c7c50,
+Synchrowave\Common\SWave\Config.cs,175,,,erichewi,stango,,,'6e645a,,'dc3bf9,stango,'6e645a,erichewi,'6e645a,'6e645a
+Synchrowave\Common\SWave\ConfigRecord.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\SWave\DataRecord.cs,150,,,erichewi,stango,,No UT Paperwork,'41dce0,,,erichewi,'41dce0,rilehudd,'41dce0,
+Synchrowave\Common\SWave\DataWriter.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\SWave\Directory.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'6fe9e9,,'78782d,erichewi,'6fe9e9,rilehudd,'6fe9e9,'6fe9e9
+Synchrowave\Common\SWave\File.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Common\SWave\FileReaderWriter.cs,175,,,erichewi,stango,,No UT Paperwork,'692f64,,'d4f526,stango,'692f64,erichewi,'692f64,'692f64
+Synchrowave\Common\SWave\SWaveDatabase.cs,175,,,erichewi,stango,,No UT Paperwork,'74bb1f,,'61190e,stango,'74bb1f,erichewi,'74bb1f,'74bb1f
+Synchrowave\Common\SWave\TagReader.cs,150,,,erichewi,stango,,No UT Paperwork,'6894d1,,,erichewi,'6894d1,stango,'6894d1,'6894d1
+Synchrowave\Common\SystemTimeSource.cs,175,,,erichewi,rilehudd,,,'ad0408,,'bfc43c,erichewi,'ad0408,rilehudd,'ad0408,'ad0408
+Synchrowave\Common\TimeRange.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'98d51a,,'d732b1,willmorr,'98d51a,rilehudd,'98d51a,'98d51a
+Synchrowave\Common\TimeUnion.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\EventAnalytic.SL\AnalyticConfig.cs,150,,,erichewi,stango,,,'80ae2f,,,stango,'80ae2f,erichewi,'80ae2f,'80ae2f
+Synchrowave\EventAnalytic.SL\Controls\AdvertisementControl.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'ac44c3,,,rilehudd,'ac44c3,willmorr,'ac44c3,'ac44c3
+Synchrowave\EventAnalytic.SL\Controls\AdvertisementControl.xaml.cs,150,,,erichewi,erichewi,,No UT Paperwork,'3c8cfd,,,willmorr,'3c8cfd,erichewi,'3c8cfd,'3c8cfd
+Synchrowave\EventAnalytic.SL\Controls\AdvertisementVM.cs,150,,,erichewi,willmorr,,No UT Paperwork,'ac44c3,,,rilehudd,'ac44c3,willmorr,'ac44c3,'ac44c3
+Synchrowave\EventAnalytic.SL\Controls\AllDisplaysBaseControl.cs,175,,,erichewi,stango,,Printed Changes Only,'cd2f40,,'83c23e,willmorr,'cd2f40,stango,'cd2f40,'cd2f40
+Synchrowave\EventAnalytic.SL\Controls\ChartBaseControl.cs,175,,,erichewi,rilehudd,,Printed Changes Only,'89ae97,,'068531,willmorr,'89ae97,rilehudd,'89ae97,'89ae97
+Synchrowave\EventAnalytic.SL\Controls\CycleScaler.cs,150,,,erichewi,rilehudd,,New File Full Test,'4efc9f,,,erichewi,'4efc9f,rilehudd,'4efc9f,'4efc9f
+Synchrowave\EventAnalytic.SL\Controls\GlobalSettingsControl.xaml,175,,,erichewi,willmorr,,No UT Paperwork,'ac44c3,,'cd6df3,rilehudd,'ac44c3,willmorr,'ac44c3,'ac44c3
+Synchrowave\EventAnalytic.SL\Controls\GlobalSettingsControl.xaml.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'fa9405,willmorr,'fa9405,willmorr,'fa9405,rilehudd,'fa9405,'fa9405
+Synchrowave\EventAnalytic.SL\Controls\TimeBasedChartControl.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'97527c,,'403844,erichewi,'97527c,rilehudd,'97527c,'97527c
+Synchrowave\EventAnalytic.SL\Controls\TrialStatusControl.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'642e60,,,rilehudd,'642e60,willmorr,'642e60,'642e60
+Synchrowave\EventAnalytic.SL\Controls\TrialStatusControl.xaml.cs,150,,,erichewi,willmorr,,No UT Paperwork,'b9f833,,,rilehudd,'b9f833,willmorr,'b9f833,'b9f833
+Synchrowave\EventAnalytic.SL\Displays\AnalogChart\AnalogChartControl.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'aad96d,,'ab28e8,willmorr,'aad96d,rilehudd,'aad96d,'aad96d
+Synchrowave\EventAnalytic.SL\Displays\AnalogChart\AnalogChartVM.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'114b1d,,'01ce47,willmorr,'114b1d,rilehudd,'114b1d,'114b1d
+Synchrowave\EventAnalytic.SL\Displays\AnalogChart\AnalogDisplay.xaml,175,,,erichewi,rilehudd,,No UT Paperwork,'4efc9f,,'01ce47,erichewi,'4efc9f,rilehudd,'4efc9f,'4efc9f
+Synchrowave\EventAnalytic.SL\Displays\AnalogChart\AnalogDisplay.xaml.cs,175,,,erichewi,erichewi,,Printed Changes Only,'1ec027,,'01ce47,willmorr,'1ec027,erichewi,'1ec027,'e2d8e2
+Synchrowave\EventAnalytic.SL\Displays\Calculations\Calculations.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'a31c50,,,erichewi,'a31c50,willmorr,'a31c50,'a31c50
+Synchrowave\EventAnalytic.SL\Displays\Calculations\Calculations.xaml.cs,0,,RecSharp-Auto: New Edits Detected 12/8/2014,willmorr,willmorr,,,'4e28d3,,,stango,'4e28d3,erichewi,'4e28d3,'b9f833
+Synchrowave\EventAnalytic.SL\Displays\Calculations\CalculationStyle_Dark.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'a31c50,,,erichewi,'a31c50,willmorr,'a31c50,'a31c50
+Synchrowave\EventAnalytic.SL\Displays\Calculations\CalculationStyle_Light.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'db38d3,,,willmorr,'db38d3,rilehudd,'db38d3,'db38d3
+Synchrowave\EventAnalytic.SL\Displays\Calculations\CalculationsVM.cs,175,,,erichewi,erichewi,,No UT Paperwork,'787b2c,,'34c582,erichewi,'787b2c,willmorr,'787b2c,'787b2c
+Synchrowave\EventAnalytic.SL\Displays\DataDisplayBaseTrialableVM.cs,150,,,erichewi,willmorr,,No UT Paperwork,'114b1d,,,rilehudd,'114b1d,willmorr,'114b1d,'114b1d
+Synchrowave\EventAnalytic.SL\Displays\DigitalChart\DigitalChartControl.cs,150,,,erichewi,willmorr,,No UT Paperwork,'0a9055,,,rilehudd,'0a9055,willmorr,'0a9055,'0a9055
+Synchrowave\EventAnalytic.SL\Displays\DigitalChart\DigitalChartVM.cs,150,,,erichewi,willmorr,,No UT Paperwork,'114b1d,,,rilehudd,'114b1d,willmorr,'114b1d,'114b1d
+Synchrowave\EventAnalytic.SL\Displays\DigitalChart\DigitalDisplay.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'4efc9f,,,erichewi,'4efc9f,rilehudd,'4efc9f,'4efc9f
+Synchrowave\EventAnalytic.SL\Displays\DigitalChart\DigitalDisplay.xaml.cs,150,,,erichewi,erichewi,,No UT Paperwork,'54a23d,,,rilehudd,'54a23d,erichewi,'54a23d,'54a23d
+Synchrowave\EventAnalytic.SL\Displays\EventInfo\AdjustEventTime.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'2f0962,,,willmorr,'2f0962,rilehudd,'2f0962,'2f0962
+Synchrowave\EventAnalytic.SL\Displays\EventInfo\AdjustEventTime.xaml.cs,150,,,erichewi,willmorr,,New File Full Test,'3c3272,,,erichewi,'3c3272,willmorr,'3c3272,'3c3272
+Synchrowave\EventAnalytic.SL\Displays\EventInfo\AdjustEventTimeVM.cs,150,,,erichewi,willmorr,,No UT Paperwork,'4b2a30,,,erichewi,'4b2a30,willmorr,'4b2a30,'4b2a30
+Synchrowave\EventAnalytic.SL\Displays\EventInfo\EventChooserPopup.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'8eab63,,,willmorr,'8eab63,rilehudd,'8eab63,'8eab63
+Synchrowave\EventAnalytic.SL\Displays\EventInfo\EventChooserPopup.xaml.cs,150,,,erichewi,willmorr,,No UT Paperwork,'e19990,,,rilehudd,'e19990,willmorr,'e19990,'e19990
+Synchrowave\EventAnalytic.SL\Displays\EventInfo\EventInfo.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'ac44c3,,,rilehudd,'ac44c3,willmorr,'ac44c3,'ac44c3
+Synchrowave\EventAnalytic.SL\Displays\EventInfo\EventInfo.xaml.cs,150,,,erichewi,willmorr,,No UT Paperwork,'ab5b10,,,rilehudd,'ab5b10,willmorr,'ab5b10,'ab5b10
+Synchrowave\EventAnalytic.SL\Displays\EventInfo\EventInfoVM.cs,150,,,erichewi,erichewi,,No UT Paperwork,'53b8aa,,,rilehudd,'53b8aa,erichewi,'53b8aa,'53b8aa
+Synchrowave\EventAnalytic.SL\Displays\EventInfo\RelaySettings.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'ac44c3,,,rilehudd,'ac44c3,willmorr,'ac44c3,'ac44c3
+Synchrowave\EventAnalytic.SL\Displays\EventInfo\RelaySettings.xaml.cs,150,,,erichewi,willmorr,,No UT Paperwork,'421dcf,,,rilehudd,'421dcf,willmorr,'421dcf,'421dcf
+Synchrowave\EventAnalytic.SL\Displays\HarmonicChart\HarmonicChartControl.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'de817b,,'1448c9,willmorr,'de817b,rilehudd,'de817b,'de817b
+Synchrowave\EventAnalytic.SL\Displays\HarmonicChart\HarmonicChartVM.cs,175,,,erichewi,rilehudd,,Printed Changes Only,'d54f56,,'1448c9,willmorr,'d54f56,rilehudd,'d54f56,'d54f56
+Synchrowave\EventAnalytic.SL\Displays\HarmonicChart\HarmonicDataCache.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'df69cf,,'1448c9,willmorr,'df69cf,rilehudd,'df69cf,'df69cf
+Synchrowave\EventAnalytic.SL\Displays\HarmonicChart\HarmonicDisplay.xaml,175,,,erichewi,willmorr,,No UT Paperwork,'a31c50,,'1448c9,erichewi,'a31c50,willmorr,'a31c50,'a31c50
+Synchrowave\EventAnalytic.SL\Displays\HarmonicChart\HarmonicDisplay.xaml.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'32c5df,,'1448c9,willmorr,'32c5df,rilehudd,'32c5df,'32c5df
+Synchrowave\EventAnalytic.SL\Displays\HarmonicChart\HarmonicToolTip.xaml,175,,,erichewi,rilehudd,,,'1448c9,willmorr,'1448c9,willmorr,'1448c9,rilehudd,'1448c9,'1448c9
+Synchrowave\EventAnalytic.SL\Displays\HarmonicChart\HarmonicToolTip.xaml.cs,175,,,erichewi,rilehudd,,,'1448c9,willmorr,'1448c9,willmorr,'1448c9,rilehudd,'1448c9,'1448c9
+Synchrowave\EventAnalytic.SL\Displays\PhasorDiagram\NeedleVM.cs,175,,,erichewi,stango,,Printed Changes Only,'80d0a0,willmorr,'80d0a0,willmorr,'80d0a0,erichewi,'80d0a0,'e2d8e2
+Synchrowave\EventAnalytic.SL\Displays\PhasorDiagram\PhasorDiagram.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'a31c50,,,erichewi,'a31c50,willmorr,'a31c50,'a31c50
+Synchrowave\EventAnalytic.SL\Displays\PhasorDiagram\PhasorDiagram.xaml.cs,175,,,erichewi,stango,,Printed Changes Only,'671db1,,'5017dd,willmorr,'671db1,erichewi,'671db1,
+Synchrowave\EventAnalytic.SL\Displays\PhasorDiagram\PhasorDiagramControl.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'b85f5c,,'f22293,willmorr,'b85f5c,rilehudd,'b85f5c,'b85f5c
+Synchrowave\EventAnalytic.SL\Displays\PhasorDiagram\PhasorDiagramVM.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'bd0e4c,,'3c9336,willmorr,'bd0e4c,rilehudd,'bd0e4c,'bd0e4c
+Synchrowave\EventAnalytic.SL\Displays\PhasorDiagram\PhasorStyles_Dark.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'aad96d,,,willmorr,'aad96d,rilehudd,'aad96d,'aad96d
+Synchrowave\EventAnalytic.SL\Displays\PhasorDiagram\PhasorStyles_Light.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'aad96d,,,willmorr,'aad96d,rilehudd,'aad96d,'aad96d
+Synchrowave\EventAnalytic.SL\Displays\SpectralAnalysisChart\SpectralAnalysis.xaml,175,,,erichewi,rilehudd,,No UT Paperwork,'b59f9c,,'b5456d,willmorr,'b59f9c,rilehudd,'b59f9c,'b59f9c
+Synchrowave\EventAnalytic.SL\Displays\SpectralAnalysisChart\SpectralAnalysis.xaml.cs,175,,,erichewi,rilehudd,,,'f1b4c4,rilehudd,'199846,dylapowe,'f1b4c4,rilehudd,'f1b4c4,'f1b4c4
+Synchrowave\EventAnalytic.SL\Displays\SpectralAnalysisChart\SpectralChartControl.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'b59f9c,,'43e570,willmorr,'b59f9c,rilehudd,'b59f9c,'b59f9c
+Synchrowave\EventAnalytic.SL\Displays\SpectralAnalysisChart\SpectralChartVM.cs,175,,,erichewi,willmorr,,No UT Paperwork,'173f0a,,'e40ae8,rilehudd,'173f0a,willmorr,'173f0a,'173f0a
+Synchrowave\EventAnalytic.SL\Displays\SpectralAnalysisChart\SpectralDataCache.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'ea59c8,,'f1b4c4,willmorr,'ea59c8,rilehudd,'ea59c8,'ea59c8
+Synchrowave\EventAnalytic.SL\EventReport\EventReportModule.cs,175,,,erichewi,willmorr,,No UT Paperwork,'fd493c,,'7d7a3c,stango,'fd493c,erichewi,'fd493c,'fd493c
+Synchrowave\EventAnalytic.SL\EventReport\EventReportQuantity.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'3d8150,,,willmorr,'3d8150,rilehudd,'3d8150,'3d8150
+Synchrowave\EventAnalytic.SL\EventReport\PhasorReferenceModule.cs,150,,,erichewi,willmorr,,New File Full Test,'76759d,,,erichewi,'76759d,willmorr,'76759d,'76759d
+Synchrowave\EventAnalytic.SL\EventReport\SequenceQuantity.cs,150,,,erichewi,willmorr,,No UT Paperwork,'76759d,,,erichewi,'76759d,willmorr,'76759d,'76759d
+Synchrowave\EventAnalytic.SL\EventViewerConstants.cs,150,,,erichewi,erichewi,,No UT Paperwork,'2bbdb6,,,rilehudd,'2bbdb6,erichewi,'2bbdb6,'2bbdb6
+Synchrowave\EventAnalytic.SL\Main\App.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'ee0c36,,,willmorr,'ee0c36,rilehudd,'ee0c36,'ee0c36
+Synchrowave\EventAnalytic.SL\Main\App.xaml.cs,175,,,erichewi,willmorr,,No UT Paperwork,'f029b4,,'08c576,stango,'f029b4,erichewi,'f029b4,'f029b4
+Synchrowave\EventAnalytic.SL\Main\CommandBar\LeftCommandPanel.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'6e2c73,,,erichewi,'6e2c73,rilehudd,'6e2c73,'6e2c73
+Synchrowave\EventAnalytic.SL\Main\CommandBar\LeftCommandPanel.xaml.cs,150,,,erichewi,stango,,No UT Paperwork,'0b4f62,,,rilehudd,'0b4f62,stango,'0b4f62,
+Synchrowave\EventAnalytic.SL\Main\CommandBar\RightCommandPanel.xaml,150,,,erichewi,stango,,No UT Paperwork,'62457d,,,erichewi,'62457d,stango,'62457d,'62457d
+Synchrowave\EventAnalytic.SL\Main\CommandBar\RightCommandPanel.xaml.cs,150,,,erichewi,willmorr,,No UT Paperwork,'787b2c,,,rilehudd,'787b2c,willmorr,'787b2c,'787b2c
+Synchrowave\EventAnalytic.SL\Main\CommandBar\ScreenSelectorView.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'3e460b,,,willmorr,'3e460b,rilehudd,'3e460b,'3e460b
+Synchrowave\EventAnalytic.SL\Main\CommandBar\ScreenSelectorView.xaml.cs,150,,,erichewi,stango,,No UT Paperwork,'d7c9b1,,,rilehudd,'d7c9b1,stango,'d7c9b1,
+Synchrowave\EventAnalytic.SL\Main\CommandBar\ScreenSelectorVM.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'6e2c73,,,erichewi,'6e2c73,rilehudd,'6e2c73,'6e2c73
+Synchrowave\EventAnalytic.SL\Main\ContextMenu\RightClickInfoVM.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'580dd6,,,willmorr,'580dd6,rilehudd,'580dd6,'580dd6
+Synchrowave\EventAnalytic.SL\Main\ContextMenu\RightClickTimeCursorsVM.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'4efc9f,erichewi,'5e9584,willmorr,'4efc9f,rilehudd,'4efc9f,'4efc9f
+Synchrowave\EventAnalytic.SL\Main\ContextMenu\RightClickZoomVM.cs,150,,,erichewi,erichewi,,No UT Paperwork,'068531,,,willmorr,'068531,erichewi,'068531,'068531
+Synchrowave\EventAnalytic.SL\Main\Converters.cs,150,,,erichewi,stango,,No UT Paperwork,'69f798,,,rilehudd,'69f798,stango,'69f798,
+Synchrowave\EventAnalytic.SL\Main\CycleManager.cs,150,,,erichewi,rilehudd,,Printed Changes Only,'63e863,,,willmorr,'63e863,rilehudd,'63e863,'63e863
+Synchrowave\EventAnalytic.SL\Main\EventAnalyticDataCache.cs,150,,,erichewi,stango,,New File Full Test,'f5c2be,,,erichewi,'f5c2be,willmorr,'f5c2be,'f5c2be
+Synchrowave\EventAnalytic.SL\Main\GlobalSettings.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'8e0c61,,,erichewi,'8e0c61,rilehudd,'8e0c61,'8e0c61
+Synchrowave\EventAnalytic.SL\Main\MainScreen\LeftPanel\BlankDisplay.xaml,150,,,erichewi,stango,,No UT Paperwork,'415b97,,,rilehudd,'415b97,willmorr,'415b97,'415b97
+Synchrowave\EventAnalytic.SL\Main\MainScreen\LeftPanel\BlankDisplay.xaml.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'267396,,,willmorr,'267396,rilehudd,'267396,'267396
+Synchrowave\EventAnalytic.SL\Main\MainScreen\LeftPanel\DisplayContentControl.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'415b97,,'a2356f,rilehudd,'415b97,willmorr,'415b97,'415b97
+Synchrowave\EventAnalytic.SL\Main\MainScreen\LeftPanel\DisplayViewBase.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'c42aa8,,,rilehudd,'c42aa8,willmorr,'c42aa8,'c42aa8
+Synchrowave\EventAnalytic.SL\Main\MainScreen\LeftPanel\DisplayViewBase.xaml.cs,175,,,erichewi,erichewi,,No UT Paperwork,'28dc9b,,'5e9584,rilehudd,'28dc9b,erichewi,'28dc9b,'28dc9b
+Synchrowave\EventAnalytic.SL\Main\MainScreen\LeftPanel\SelectionDisplay.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'3e460b,,,willmorr,'3e460b,rilehudd,'3e460b,'3e460b
+Synchrowave\EventAnalytic.SL\Main\MainScreen\LeftPanel\SelectionDisplay.xaml.cs,150,,,erichewi,willmorr,,No UT Paperwork,'c5f921,,,rilehudd,'c5f921,willmorr,'c5f921,'c5f921
+Synchrowave\EventAnalytic.SL\Main\MainScreen\LeftPanel\SplitNodeControl.xaml,150,,,erichewi,stango,,No UT Paperwork,'9377ce,,,rilehudd,'9377ce,stango,'9377ce,
+Synchrowave\EventAnalytic.SL\Main\MainScreen\LeftPanel\SplitNodeControl.xaml.cs,150,,,erichewi,stango,,No UT Paperwork,'69f798,,,rilehudd,'69f798,stango,'69f798,
+Synchrowave\EventAnalytic.SL\Main\MainScreen\LeftPanel\SplitNodeHorizontal.xaml,150,,,erichewi,stango,,No UT Paperwork,'be27fa,,,rilehudd,'be27fa,stango,'be27fa,
+Synchrowave\EventAnalytic.SL\Main\MainScreen\LeftPanel\SplitNodeHorizontal.xaml.cs,150,,,erichewi,stango,,No UT Paperwork,'07ea0a,,,rilehudd,'07ea0a,stango,'07ea0a,'e2d8e2
+Synchrowave\EventAnalytic.SL\Main\MainScreen\LeftPanel\SplitNodeVertical.xaml,150,,,erichewi,stango,,No UT Paperwork,'be27fa,,,rilehudd,'be27fa,stango,'be27fa,
+Synchrowave\EventAnalytic.SL\Main\MainScreen\LeftPanel\SplitNodeVertical.xaml.cs,150,,,erichewi,stango,,No UT Paperwork,'07ea0a,,,rilehudd,'07ea0a,stango,'07ea0a,'e2d8e2
+Synchrowave\EventAnalytic.SL\Main\MainScreen\RightPanel\RightPanelView.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'642e60,,,rilehudd,'642e60,willmorr,'642e60,'642e60
+Synchrowave\EventAnalytic.SL\Main\MainScreen\RightPanel\RightPanelView.xaml.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'933a44,,,willmorr,'933a44,rilehudd,'933a44,'933a44
+Synchrowave\EventAnalytic.SL\Main\MainScreen\RightPanel\RightPanelVM.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'15dd03,,,willmorr,'15dd03,rilehudd,'15dd03,'15dd03
+Synchrowave\EventAnalytic.SL\Main\MainScreen\ScreenVM.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'ebb3ef,,'a2356f,erichewi,'ebb3ef,rilehudd,'ebb3ef,'ebb3ef
+Synchrowave\EventAnalytic.SL\Main\MainView.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'cb3564,,,willmorr,'cb3564,rilehudd,'cb3564,'cb3564
+Synchrowave\EventAnalytic.SL\Main\MainView.xaml.cs,175,,,erichewi,willmorr,,No UT Paperwork,'580dd6,,'6da926,rilehudd,'580dd6,willmorr,'580dd6,'580dd6
+Synchrowave\EventAnalytic.SL\Main\MainVM.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'0b803b,,'a2356f,willmorr,'0b803b,rilehudd,'0b803b,'0b803b
+Synchrowave\EventAnalytic.SL\Main\TimeManager.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'4efc9f,,,erichewi,'4efc9f,rilehudd,'4efc9f,'4efc9f
+Synchrowave\EventAnalytic.SL\ModuleSetup.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'580dd6,,,willmorr,'580dd6,rilehudd,'580dd6,'580dd6
+Synchrowave\EventAnalytic.SL\Properties\AppManifest.xml,150,,,erichewi,stango,,No UT Paperwork,'d305e6,,,rilehudd,'d305e6,erichewi,'d305e6,'d305e6
+Synchrowave\EventAnalytic.SL\Properties\AssemblyInfo.cs,0,,RecSharp-Auto: New Edits Detected 10/3/2014,erichewi,willmorr,,,'045446,,,erichewi,'045446,erichewi,'045446,'a0bd29
+Synchrowave\EventAnalytic.SL\Properties\InBrowserSettings.xml,150,,,erichewi,stango,,No UT Paperwork,'b38338,,,rilehudd,'b38338,stango,'b38338,'b38338
+Synchrowave\EventAnalytic.SL\Properties\OutOfBrowserSettings.xml,150,,,erichewi,erichewi,,No UT Paperwork,'06bbb4,,,rilehudd,'06bbb4,erichewi,'06bbb4,'06bbb4
+Synchrowave\EventAnalytic.SL\Resource1.Designer.cs,150,,,erichewi,erichewi,,No UT Paperwork,'d99b6d,,,rilehudd,'d99b6d,erichewi,'d99b6d,'d99b6d
+Synchrowave\EventAnalytic.SL\Resource1.resx,150,,,erichewi,erichewi,,No UT Paperwork,'d99b6d,,,rilehudd,'d99b6d,erichewi,'d99b6d,'d99b6d
+Synchrowave\EventAnalytic.SL\Resources\ForceThisDirIntoSrcControl,150,,,erichewi,stango,,No UT Paperwork,'c4eaf6,,,rilehudd,'c4eaf6,stango,'c4eaf6,'c4eaf6
+Synchrowave\EventAnalytic.SL\Resources\Scaling.config,150,,,erichewi,willmorr,,No UT Paperwork,'3c136a,,,rilehudd,'3c136a,willmorr,'3c136a,'3c136a
+Synchrowave\EventAnalytic.SL\ScreenManager\ScreenManager.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'3e460b,,,willmorr,'3e460b,rilehudd,'3e460b,'3e460b
+Synchrowave\EventAnalytic.SL\ScreenManager\ScreenManager.xaml.cs,150,,,erichewi,stango,,No UT Paperwork,'1c65a2,,,rilehudd,'1c65a2,stango,'1c65a2,
+Synchrowave\EventAnalytic.SL\ScreenManager\ScreenManagerVM.cs,150,,,erichewi,stango,,No UT Paperwork,'85fa16,,,rilehudd,'85fa16,stango,'85fa16,'e2d8e2
+Synchrowave\EventAnalytic.SL\Themes\Metro\Dark\MetroDark.MSControls.Core.Implicit.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'135b4d,,,erichewi,'135b4d,willmorr,'135b4d,'135b4d
+Synchrowave\EventAnalytic.SL\Themes\Metro\Dark\MetroDark.MSControls.SDK.Implicit.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'dcb38d,,,willmorr,'dcb38d,rilehudd,'dcb38d,'dcb38d
+Synchrowave\EventAnalytic.SL\Themes\Metro\Dark\MetroDark.MSControls.Toolkit.Implicit.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'dcb38d,,,willmorr,'dcb38d,rilehudd,'dcb38d,'dcb38d
+Synchrowave\EventAnalytic.SL\Themes\Metro\Dark\SELChartStyle_Dark.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'3a069e,,,rilehudd,'3a069e,willmorr,'3a069e,'3a069e
+Synchrowave\EventAnalytic.SL\Themes\Metro\Dark\Styles.Shared.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'ac44c3,,,rilehudd,'ac44c3,willmorr,'ac44c3,'ac44c3
+Synchrowave\EventAnalytic.SL\Themes\Metro\Dark\Styles.SL.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'dcb38d,,,willmorr,'dcb38d,rilehudd,'dcb38d,'dcb38d
+Synchrowave\EventAnalytic.SL\Themes\Metro\Dark\Theme.Colors.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'dcb38d,,,willmorr,'dcb38d,rilehudd,'dcb38d,'dcb38d
+Synchrowave\EventAnalytic.SL\Themes\Metro\Dark\WillsExtraStyles.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'080c20,,,willmorr,'080c20,rilehudd,'080c20,'080c20
+Synchrowave\EventAnalytic.SL\Themes\Metro\Light\Metro.MSControls.Core.Implicit.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'135b4d,,,erichewi,'135b4d,willmorr,'135b4d,'135b4d
+Synchrowave\EventAnalytic.SL\Themes\Metro\Light\Metro.MSControls.SDK.Implicit.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'dcb38d,,,willmorr,'dcb38d,rilehudd,'dcb38d,'dcb38d
+Synchrowave\EventAnalytic.SL\Themes\Metro\Light\Metro.MSControls.Toolkit.Implicit.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'dcb38d,,,willmorr,'dcb38d,rilehudd,'dcb38d,'dcb38d
+Synchrowave\EventAnalytic.SL\Themes\Metro\Light\SELChartStyle_Light.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'3a069e,,,rilehudd,'3a069e,willmorr,'3a069e,'3a069e
+Synchrowave\EventAnalytic.SL\Themes\Metro\Light\Styles.Shared.xaml,150,,,erichewi,willmorr,,No UT Paperwork,'ac44c3,,,rilehudd,'ac44c3,willmorr,'ac44c3,'ac44c3
+Synchrowave\EventAnalytic.SL\Themes\Metro\Light\Styles.SL.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'dcb38d,,,willmorr,'dcb38d,rilehudd,'dcb38d,'dcb38d
+Synchrowave\EventAnalytic.SL\Themes\Metro\Light\Theme.Colors.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'dcb38d,,,willmorr,'dcb38d,rilehudd,'dcb38d,'dcb38d
+Synchrowave\Services\ArchiveJanitor\app.config,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\ArchiveJanitor\Program.cs,175,,,erichewi,stango,,,'68dfe7,ericball,'68dfe7,ericball,'68dfe7,erichewi,'68dfe7,'68dfe7
+Synchrowave\Services\ArchiveJanitor\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\DataIndexer\app.config,150,,,erichewi,stango,,No UT Paperwork,'9c4e50,,,erichewi,'9c4e50,stango,'9c4e50,
+Synchrowave\Services\DataIndexer\DataIndexer.cs,175,,,erichewi,stango,,No UT Paperwork,'475e08,,'9c4e50,stango,'475e08,erichewi,'475e08,'475e08
+Synchrowave\Services\DataIndexer\FileMonitor.cs,150,,,erichewi,stango,,No UT Paperwork,'9c4e50,,,erichewi,'9c4e50,stango,'9c4e50,
+Synchrowave\Services\DataIndexer\HistoricIndexer.cs,0,stango,RecSharp-Auto: New Edits Detected 12/10/2014,erichewi,stango,,,'69e60d,,'9c4e50,,,,,'fd493c
+Synchrowave\Services\DataIndexer\IndexDB.cs,175,,,erichewi,stango,,,'9c4e50,erichewi,'9c4e50,erichewi,'9c4e50,stango,'9c4e50,
+Synchrowave\Services\DataIndexer\IndexDBExtensions.cs,175,,,erichewi,stango,,,'9c4e50,erichewi,'9c4e50,erichewi,'9c4e50,stango,'9c4e50,
+Synchrowave\Services\DataIndexer\Program.cs,175,,,erichewi,stango,,No UT Paperwork,'cbc9e2,,'9c4e50,stango,'cbc9e2,erichewi,'cbc9e2,'cbc9e2
+Synchrowave\Services\DataIndexer\Properties\AssemblyInfo.cs,175,,,erichewi,stango,,,'9c4e50,erichewi,'9c4e50,erichewi,'9c4e50,stango,'9c4e50,
+Synchrowave\Services\DataIndexer\RealTimeIndexer.cs,175,,,erichewi,stango,,No UT Paperwork,'c22220,,'9c4e50,stango,'c22220,erichewi,'c22220,'c22220
+Synchrowave\Services\DataIndexer\RealTimeProcessorControl.cs,175,,,erichewi,stango,,,'9c4e50,erichewi,'9c4e50,erichewi,'9c4e50,stango,'9c4e50,
+Synchrowave\Services\DataIndexer\TestNew\DataIndexerTest\app.config,,stango,RecSharp-Auto: Moved/Added File 12/10/2014,erichewi,stango,,,'69e60d,,,,,,,
+Synchrowave\Services\DataIndexer\TestNew\DataIndexerTest\DataIndexerTests.cs,,stango,RecSharp-Auto: Moved/Added File 12/10/2014,erichewi,stango,,,'69e60d,,,,,,,
+Synchrowave\Services\DataIndexer\TestNew\DataIndexerTest\Properties\AssemblyInfo.cs,,stango,RecSharp-Auto: Moved/Added File 12/10/2014,erichewi,stango,,,'69e60d,,,,,,,
+Synchrowave\Services\Historian\app.config,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Historian\Config.cs,0,,Reappeared due to merge issue.,erichewi,rilehudd,,,'0bf81b,,,erichewi,'0bf81b,erichewi,'0bf81b,'e2d8e2
+Synchrowave\Services\Historian\Historian.cs,150,,,erichewi,stango,,No UT Paperwork,'6fdffa,,,stango,'6fdffa,erichewi,'6fdffa,'6fdffa
+Synchrowave\Services\Historian\HistorianConnectionManager.cs,175,,,erichewi,stango,,No UT Paperwork,'6fdffa,,'7a82eb,stango,'6fdffa,erichewi,'6fdffa,'6fdffa
+Synchrowave\Services\Historian\HistorianService.cs,175,,,erichewi,stango,,No UT Paperwork,'d7d5e7,,'f06a25,stango,'d7d5e7,erichewi,'d7d5e7,'d7d5e7
+Synchrowave\Services\Historian\HistorianService.Designer.cs,150,,,erichewi,stango,,No UT Paperwork,'9c567b,,,stango,'9c567b,stango,'9c567b,
+Synchrowave\Services\Historian\HistorianServiceInfo.cs,150,,"File reorganization, namespaces changes only.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Historian\MedianDictionary.cs,125,,,erichewi,stango,,,'4ef614,,'7a82eb,stango,'4ef614,erichewi,'4ef614,
+Synchrowave\Services\Historian\Program.cs,0,,Changes since last approval are whitespace only.,erichewi,stango,,,'571b1a,,,erichewi,'571b1a,erichewi,'571b1a,'333007
+Synchrowave\Services\Historian\Properties\AssemblyInfo.cs,0,rdlabs_build_user@STANGOVM.ad.selinc.com,RecSharp-Auto: New Edits Detected 12/10/2014,erichewi,rilehudd,,,'54a571,,,,,,,'05e89b
+Synchrowave\Services\Historian\SynchrophasorTimestampDictionary.cs,175,,,erichewi,stango,,No UT Paperwork,'ad0408,,'32cd21,stango,'ad0408,erichewi,'ad0408,'ad0408
+Synchrowave\Services\MainService\app.config,150,,"File reorganization, namespaces changes only.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\MainService\MainService.cs,175,,,erichewi,erichewi,,No UT Paperwork,'6ee86d,,'61cc3d,willmorr,'6ee86d,erichewi,'6ee86d,'6ee86d
+Synchrowave\Services\MainService\MainService.Designer.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\MainService\MainService.resx,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\MainService\MainServiceInfo.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\MainService\Program.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\MainService\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\AdminSplashPage.html,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\Alarms.svc,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\ClientBin\EventAnalytic.saproj,150,,,erichewi,rilehudd,,,'e734c9,,,erichewi,'e734c9,rilehudd,'e734c9,'e734c9
+Synchrowave\Services\Web\ClientBin\ExampleFiles\BC_fault_311L.cev,150,,,erichewi,rilehudd,,No UT Paperwork,'71a64e,,,willmorr,'71a64e,rilehudd,'71a64e,'71a64e
+Synchrowave\Services\Web\ClientBin\ExampleFiles\Harmonic_Test_50Hz.cfg,150,,,erichewi,rilehudd,,No UT Paperwork,'422d1f,,,willmorr,'422d1f,rilehudd,'422d1f,'422d1f
+Synchrowave\Services\Web\ClientBin\ExampleFiles\Harmonic_Test_50Hz.dat,150,,,erichewi,rilehudd,,No UT Paperwork,'422d1f,,,willmorr,'422d1f,rilehudd,'422d1f,'422d1f
+Synchrowave\Services\Web\ClientBin\ExampleFiles\Harmonic_Test_60Hz.cfg,150,,,erichewi,rilehudd,,No UT Paperwork,'422d1f,,,willmorr,'422d1f,rilehudd,'422d1f,'422d1f
+Synchrowave\Services\Web\ClientBin\ExampleFiles\Harmonic_Test_60Hz.dat,150,,,erichewi,rilehudd,,No UT Paperwork,'422d1f,,,willmorr,'422d1f,rilehudd,'422d1f,'422d1f
+Synchrowave\Services\Web\ClientBin\Help\5601-2015_IM.pdf,150,,,erichewi,rilehudd,,No UT Paperwork,'fdd0ec,,,willmorr,'fdd0ec,rilehudd,'fdd0ec,'fdd0ec
+Synchrowave\Services\Web\ClientBin\Help\Ads.html,150,,,erichewi,rilehudd,,No UT Paperwork,'d55984,,,willmorr,'d55984,rilehudd,'d55984,'d55984
+Synchrowave\Services\Web\ClientBin\Help\Calculations.html,150,,,erichewi,rilehudd,,No UT Paperwork,'580dd6,,,willmorr,'580dd6,rilehudd,'580dd6,'580dd6
+Synchrowave\Services\Web\ClientBin\Help\Central.html,150,,,erichewi,rilehudd,,No UT Paperwork,'580dd6,,,willmorr,'580dd6,rilehudd,'580dd6,'580dd6
+Synchrowave\Services\Web\ClientBin\Help\Differences.html,150,,,erichewi,rilehudd,,No UT Paperwork,'580dd6,,,willmorr,'580dd6,rilehudd,'580dd6,'580dd6
+Synchrowave\Services\Web\ClientBin\Help\EventTutorial.html,150,,,erichewi,rilehudd,,No UT Paperwork,'580dd6,,,willmorr,'580dd6,rilehudd,'580dd6,'580dd6
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\bjqs\bjqs-1.3.js,150,,,erichewi,erichewi,,No UT Paperwork,'6075f4,,,willmorr,'6075f4,erichewi,'6075f4,'6075f4
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\bjqs\bjqs.css,150,,,erichewi,erichewi,,No UT Paperwork,'6075f4,,,willmorr,'6075f4,erichewi,'6075f4,'6075f4
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\ektron.css,150,,"tutorial template files, changed for wix",erichewi,erichewi,,No UT Paperwork,'53e001,,,willmorr,'53e001,erichewi,'53e001,
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\ektron.js,150,,,erichewi,erichewi,,No UT Paperwork,'7523d6,,,willmorr,'7523d6,erichewi,'7523d6,'7523d6
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\jquery-ui-1.10.3.custom\css\sel-dark\jquery-ui-1.10.3.custom.css,150,,,erichewi,erichewi,,No UT Paperwork,'977475,,,willmorr,'977475,erichewi,'977475,'977475
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\jquery-ui-1.10.3.custom\js\jquery-1.9.1.js,150,,,erichewi,erichewi,,No UT Paperwork,'977475,,,willmorr,'977475,erichewi,'977475,'977475
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\jquery-ui-1.10.3.custom\js\jquery-ui-1.10.3.custom.js,150,,,erichewi,erichewi,,No UT Paperwork,'977475,,,willmorr,'977475,erichewi,'977475,'977475
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\jquery-ui-1.10.4.custom\css\sel-dark\jquery-ui-1.10.4.custom.css,150,,,erichewi,rilehudd,,No UT Paperwork,'5545e0,,,willmorr,'5545e0,rilehudd,'5545e0,'5545e0
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\jquery-ui-1.10.4.custom\js\jquery-1.10.2.js,150,,,erichewi,rilehudd,,No UT Paperwork,'5545e0,,,willmorr,'5545e0,rilehudd,'5545e0,'5545e0
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\jquery-ui-1.10.4.custom\js\jquery-ui-1.10.4.custom.js,150,,,erichewi,rilehudd,,No UT Paperwork,'5545e0,,,willmorr,'5545e0,rilehudd,'5545e0,'5545e0
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\jquery-ui-1.10.4.custom\js\jquery-ui-1.10.4.custom.min.js,150,,,erichewi,rilehudd,,No UT Paperwork,'5545e0,,,willmorr,'5545e0,rilehudd,'5545e0,'5545e0
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\SEL.css,150,,RecSharp-Auto: Moved/Added File 8/2/2013,erichewi,erichewi,,No UT Paperwork,'7523d6,,,willmorr,'7523d6,erichewi,'7523d6,
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\SEL.prod.min.4.css,150,,RecSharp-Auto: Moved/Added File 8/2/2013,erichewi,erichewi,,No UT Paperwork,'7523d6,,,willmorr,'7523d6,erichewi,'7523d6,
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\Signika-Semibold.woff,150,,RecSharp-Auto: Moved/Added File 8/2/2013,erichewi,erichewi,,No UT Paperwork,'7523d6,,,willmorr,'7523d6,erichewi,'7523d6,
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\WillsModifications.css,150,,,erichewi,rilehudd,,No UT Paperwork,'53cd10,,,willmorr,'53cd10,rilehudd,'53cd10,'53cd10
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\WorkArea\modal-close.gif,150,,tutorial template files,erichewi,erichewi,,No UT Paperwork,'53e001,,,willmorr,'53e001,erichewi,'53e001,
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\WorkArea\modal-header-bg.gif,150,,tutorial template files,erichewi,erichewi,,No UT Paperwork,'53e001,,,willmorr,'53e001,erichewi,'53e001,
+Synchrowave\Services\Web\ClientBin\Help\SEL-Template_files\WorkArea\over_tab.gif,150,,tutorial template files,erichewi,erichewi,,No UT Paperwork,'53e001,,,willmorr,'53e001,erichewi,'53e001,
+Synchrowave\Services\Web\ClientBin\Help\third-party-licenses.html,150,,,erichewi,rilehudd,,No UT Paperwork,'580dd6,,,willmorr,'580dd6,rilehudd,'580dd6,'580dd6
+Synchrowave\Services\Web\ClientBin\Help\tutorial.pdf,150,,,erichewi,erichewi,,No UT Paperwork,'7523d6,,,willmorr,'7523d6,erichewi,'7523d6,'7523d6
+Synchrowave\Services\Web\ClientBin\Logging.saproj,0,,No changes on this project.,erichewi,stango,,,'2fa4d2,,,erichewi,'2fa4d2,erichewi,'2fa4d2,
+Synchrowave\Services\Web\ClientBin\PDF\tutorial.pdf,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\ClientBin\SynchroWAVeCentral.saproj,150,,,erichewi,stango,,No UT Paperwork,'3ad346,,,erichewi,'3ad346,stango,'3ad346,'3ad346
+Synchrowave\Services\Web\ClientBin\Templates\SEL-Template.dwt,150,,,erichewi,rilehudd,,No UT Paperwork,'580dd6,,,willmorr,'580dd6,rilehudd,'580dd6,'580dd6
+Synchrowave\Services\Web\config\applicationhost.config,175,,,erichewi,stango,,No UT Paperwork,'372762,,'066f83,rilehudd,'372762,stango,'372762,'372762
+Synchrowave\Services\Web\config\aspnet.config,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\config\redirection.config,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\DataClient.cs,175,,,erichewi,stango,,Printed Changes Only,'df9bbc,,'139f3a,erichewi,'df9bbc,willmorr,'df9bbc,'df9bbc
+Synchrowave\Services\Web\default.aspx,150,,,erichewi,stango,,No UT Paperwork,'c11abd,,,rilehudd,'c11abd,stango,'c11abd,'c11abd
+Synchrowave\Services\Web\Event.svc,150,,,erichewi,stango,,,'029071,,,stango,'029071,erichewi,'029071,'029071
+Synchrowave\Services\Web\EventViewer.aspx,150,,,willmorr,erichewi,,No UT Paperwork,'b9f833,,,rilehudd,'b9f833,willmorr,'b9f833,'b9f833
+Synchrowave\Services\Web\ExportData.cs,150,,,erichewi,stango,,,'35a39c,,,stango,'35a39c,erichewi,'35a39c,'35a39c
+Synchrowave\Services\Web\Global.asax,,rdlabs_build_user@STANGOVM.ad.selinc.com,RecSharp-Auto: Moved/Added File 12/10/2014,erichewi,stango,,,,,,,,,,
+Synchrowave\Services\Web\Global.asax.cs,0,,All functionality is Debug only.,erichewi,stango,,,'27111a,,,dylapowe,'27111a,erichewi,'27111a,
+Synchrowave\Services\Web\IWebService.cs,150,,,erichewi,rilehudd,,No UT Paperwork,'9c2f46,,,erichewi,'9c2f46,rilehudd,'9c2f46,'9c2f46
+Synchrowave\Services\Web\IWebService.tt,175,,,erichewi,stango,,No UT Paperwork,'0f13bd,,'d48c75,rilehudd,'0f13bd,stango,'0f13bd,
+Synchrowave\Services\Web\Logging.svc,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\Logs.html,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\Properties\AssemblyInfo.cs,0,rdlabs_build_user@STANGOVM.ad.selinc.com,Changed by build server to update version number.,erichewi,rilehudd,,,'54a571,,,,,,,'9c4e50
+Synchrowave\Services\Web\Search.svc,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\Silverlight.js,0,,No changes since previous project.,erichewi,stango,,,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\SilverlightFaultBehavior.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\Web.config,175,,,erichewi,stango,,No UT Paperwork,'f3704b,,'029071,rilehudd,'f3704b,erichewi,'f3704b,'f3704b
+Synchrowave\Services\Web\Web.Debug.config,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\Web.Release.config,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\WebConfigInstaller.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\WebConfigInstaller.Designer.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\WebDirectory.svc,150,,,erichewi,stango,,No UT Paperwork,'0f13bd,,,rilehudd,'0f13bd,willmorr,'0f13bd,
+Synchrowave\Services\Web\WebDirectoryServiceContainers.cs,150,,,erichewi,stango,,No UT Paperwork,'f1f27d,,,rilehudd,'f1f27d,willmorr,'f1f27d,
+Synchrowave\Services\Web\WebDirectory\DirectoryWebService.cs,175,,,erichewi,stango,,Printed Changes Only,'dd1989,,'4c2fd7,rilehudd,dd1989,willmorr,'dd1989,'dd1989
+Synchrowave\Services\Web\WebDirectory\IDirectoryWebService.cs,150,,,erichewi,stango,,No UT Paperwork,'86d96c,,,rilehudd,'86d96c,willmorr,'86d96c,
+Synchrowave\Services\Web\WebFileSystem.cs,150,,,erichewi,stango,,Automated,'04b346,,,rilehudd,'04b346,erichewi,'04b346,'04b346
+Synchrowave\Services\Web\WebService.svc,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Services\Web\WebService.svc.cs,100,,,erichewi,stango,,,'366a63,,,,,erichewi,'366a63,'366a63
+Synchrowave\Services\Web\WebServiceContainers.cs,175,,,erichewi,willmorr,,No UT Paperwork,'dc28d1,,'20a39c,erichewi,'dc28d1,willmorr,'dc28d1,'dc28d1
+Synchrowave\Services\Web\WebServiceDefinition.tt,150,,Automatically Moved/Added 1/7/2013,erichewi,stango,,None.,'e2d8e2,,,erichewi,'e2d8e2,erichewi,'e2d8e2,
+Synchrowave\Tools\IsLicensed\CheckLicense.cs,150,,,erichewi,willmorr,,No UT Paperwork,'781252,,,rilehudd,564930,willmorr,'781252,'781252
+Synchrowave\Tools\IsLicensed\Program.cs,150,,,erichewi,erichewi,,No UT Paperwork,'2c469a,,,rilehudd,'2c469a,erichewi,'2c469a,'2c469a
+Synchrowave\Tools\IsLicensed\Properties\AssemblyInfo.cs,150,,,erichewi,erichewi,,No UT Paperwork,'57e901,,,rilehudd,'57e901,erichewi,'57e901,'57e901
+Synchrowave\Tools\NamedPipeConsoleClient\Program.cs,150,,,erichewi,erichewi,,No UT Paperwork,'3050c5,,,rilehudd,'652c06,erichewi,'3050c5,'3050c5
+Synchrowave\Tools\NamedPipeConsoleClient\Properties\AssemblyInfo.cs,150,,,erichewi,stango,,No UT Paperwork,'35bce8,,,rilehudd,'35bce8,erichewi,'35bce8,'35bce8
+Synchrowave\Tools\NamedPipeConsoleClient\Resource1.Designer.cs,150,,,erichewi,stango,,No UT Paperwork,'af7d2a,,,rilehudd,'af7d2a,stango,'af7d2a,'af7d2a
+Synchrowave\Tools\NamedPipeConsoleClient\Resource1.resx,150,,,erichewi,stango,,No UT Paperwork,'af7d2a,,,rilehudd,'af7d2a,stango,'af7d2a,'af7d2a
+Synchrowave\Tools\Reader32\Reader32Wrapper\ConversionExtensions.cs,175,,,erichewi,rilehudd,,New File Full Test,'9fa8bf,,'2a080a,willmorr,'9fa8bf,rilehudd,'9fa8bf,'9fa8bf
+Synchrowave\Tools\Reader32\Reader32Wrapper\DLLCaller.cs,175,,,erichewi,willmorr,12071,No UT Paperwork,'af8b5c,,96942e,rilehudd,'af8b5c,willmorr,'af8b5c,'af8b5c
+Synchrowave\Tools\Reader32\Reader32Wrapper\EdgeCasesEVE.cs,150,,,erichewi,rilehudd,,New File Full Test,'952008,,,willmorr,'952008,rilehudd,'952008,'952008
+Synchrowave\Tools\Reader32\Reader32Wrapper\EventFileReader.cs,175,,,erichewi,rilehudd,,Printed Changes Only,'88c008,,'43852a,willmorr,'88c008,rilehudd,'88c008,'88c008
+Synchrowave\Tools\Reader32\Reader32Wrapper\EventReport.cs,150,,,erichewi,rilehudd,,,'436dab,,,stango,'436dab,erichewi,'436dab,'436dab
+Synchrowave\Tools\Reader32\Reader32Wrapper\Program.cs,175,,,erichewi,stango,12071,No UT Paperwork,'fc2395,,'96942e,willmorr,'fc2395,rilehudd,'fc2395,'fc2395
+Synchrowave\Tools\Reader32\Reader32Wrapper\Properties\AssemblyInfo.cs,150,,,erichewi,erichewi,,No UT Paperwork,'2cc7d5,,,willmorr,'2cc7d5,erichewi,'2cc7d5,'2cc7d5
+Synchrowave\Tools\Reader32\Reader32Wrapper\Reader32Wrapper.cs,175,,,erichewi,willmorr,12071,,'f8f7c4,,'96942e,erichewi,'f8f7c4,rilehudd,'f8f7c4,'f8f7c4
+Synchrowave\Tools\Reader32\Reader32Wrapper\SettingsRegex.cs,175,,,erichewi,rilehudd,,No UT Paperwork,'d7a4a2,,'2d4549,willmorr,'d7a4a2,rilehudd,'d7a4a2,'d7a4a2
+Synchrowave\Tools\SWaveViewer\app.config,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\App.xaml,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\App.xaml.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\Properties\Resources.Designer.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\Properties\Resources.resx,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\Properties\Settings.Designer.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\Properties\Settings.settings,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\Styles.xaml,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\SWaveViewer.sln,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\ViewModels\FileViewModel.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\ViewModels\MainWindowViewModel.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\Views\FileView.xaml,150,,,erichewi,rilehudd,,No UT Paperwork,'9b8bec,,,erichewi,'9b8bec,rilehudd,'9b8bec,'9b8bec
+Synchrowave\Tools\SWaveViewer\Views\FileView.xaml.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\Views\MainWindow.xaml,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\Views\MainWindow.xaml.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SWaveViewer\VirtualizingDataList.cs,150,,"Move only, no file content change.",erichewi,stango,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SynchroExport\app.config,150,,"Move only, no file content change.",stango,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SynchroExport\CSVExporter.cs,150,,Move and using statements only.,stango,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SynchroExport\GenericParsing.cs,150,,Move and using statements only.,stango,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Synchrowave\Tools\SynchroExport\Program.cs,150,,,stango,erichewi,,No UT Paperwork,'333007,,,erichewi,'333007,rilehudd,'333007,'333007
+Synchrowave\Tools\SynchroExport\Properties\AssemblyInfo.cs,150,,"Move only, no file content change.",stango,erichewi,,None.,'333007,,,erichewi,'333007,erichewi,'333007,
+Team City Build Reference.docx,150,,,erichewi,willmorr,,,'d031c5,,,rilehudd,'d031c5,willmorr,'d031c5,'d031c5
+TEAM_KEY.txt,150,,,erichewi,stango,,,'34e17f,,,stango,'34e17f,erichewi,'34e17f,'34e17f
